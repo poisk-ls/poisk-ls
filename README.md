@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jade Nelson N. Buhayan</h1>
-<h3 align="center">A passionate learning Database.</h3>
+<h1 align="center">Hi 👋, I'm Jade poisk-ls</h1>
+<h3 align="center">A passionate learning Database, SQL, MySQL.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poisk-ls&label=Profile%20views&color=0e75b6&style=flat" alt="poisk-ls" /> </p>
 
