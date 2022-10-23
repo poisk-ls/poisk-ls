@@ -46,8 +46,9 @@
 
 <p><img src="https://activity-graph.herokuapp.com/graph?username=jxareas&theme=gotham&area=true&hide_border=true&custom_title=poisk-ls%20Contribution%20Graph" width="100%"/></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=**My+Partner**)](https://git.io/typing-svg)
-![alttext](https://github.com/poisk-ls/poisk-ls/blob/main/akunbendi.jpg?raw=true)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+Partner+💖+😍)](https://git.io/typing-svg)
+![alt text](https://github.com/poisk-ls/poisk-ls/blob/main/akunbendi.jpg?raw=true)
+
 
 **DB table**
 ![alt
