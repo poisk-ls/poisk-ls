@@ -15,7 +15,7 @@
 
 - 🤳 I'm using **Termux terminal on android.**
 
-- 📫 How to reach me **bsit.3s.buhayan.jadenelson@gmail.com**
+- 📫 Feel free to reach me **bsit.3s.buhayan.jadenelson@gmail.com**
 
 - ⌨️ Insert **Do the things you love.**
 
