@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poisk-ls" alt="poisk-ls" /></a> </p>
 
+![Climate Spiral](https://raw.githubusercontent.com/SDRausty/SDRausty/master/ClimateSpiral.gif)
+
 <p align="left"> <a href="https://twitter.com/poisk_ls" target="blank"><img src="https://img.shields.io/twitter/follow/poisk_ls?logo=twitter&style=for-the-badge" alt="poisk_ls" /></a> </p>
 
 - 🌱 I’m currently studying **DBMS and RDBMS.**
