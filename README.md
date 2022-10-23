@@ -72,3 +72,7 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/table7
 Name | Command |
 :-- | :--: |
  glyde-fish | https://github.com/poisk-ls/glyde-fish
+  Welcome-Voice | https://github.com/poisk-ls/Welcome-Voice
+ Database, SQL, MySQL | https://github.com/poisk-ls/Database-Sql-MySQL
+ IP-Tracer-Pro | https://github.com/poisk-ls/IP-Tracer-Pro
+ Mod-Games | https://github.com/poisk-ls/Mod-Games
