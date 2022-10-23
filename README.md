@@ -76,3 +76,4 @@ Name | Command |
  Database, SQL, MySQL | https://github.com/poisk-ls/Database-Sql-MySQL
  IP-Tracer-Pro | https://github.com/poisk-ls/IP-Tracer-Pro
  Mod-Games | https://github.com/poisk-ls/Mod-Games
+ Pro-AI | https://github.com/poisk-ls/Pro-AI
