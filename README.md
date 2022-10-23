@@ -43,3 +43,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poisk-ls&" alt="poisk-ls" /></p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D9F4&background=7855FF00&width=435&lines=Always+Trust+the+Process+^_^..)](https://git.io/typing-svg)
+
+<p><img src="https://activity-graph.herokuapp.com/graph?username=jxareas&theme=gotham&area=true&hide_border=true&custom_title=poisk-ls%20Contribution%20Graph" width="100%"/></p>
+
