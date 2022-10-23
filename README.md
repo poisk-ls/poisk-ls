@@ -67,3 +67,8 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/table5
 text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/table6.jpg?raw=true)
 ![alt
 text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/table7.jpg?raw=true)
+
+# **Customize Repositories**
+Name | Command |
+:-- | :--: |
+ glyde-fish | https://github.com/poisk-ls/glyde-fish
