@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there, Nice to see you.</h1>
 <h3 align="center">I'm presently learning Database.</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Jade+poisk%C3%B1-ls%2C+21+years+old;Database,+Sql,+MySQL;Still+Studying+DBMS+and+RDBMS.;I+love+you+ding..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Jade+poisk-ls%2C+21+years+old;Database,+Sql,+MySQL;Still+Studying+DBMS+and+RDBMS.;)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poisk-ls&label=Profile%20views&color=0e75b6&style=flat" alt="poisk-ls" /> </p>
 
@@ -12,6 +12,8 @@
 - 🌱 I’m currently studying **DBMS and RDBMS.**
 
 - 💖 My Special someone **Glyza**
+
+- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=44DBF7&background=7855FF00&width=435&lines=To+my+Special+Partner+I+hope;you'll+be+fine+and+safe+<3)](https://git.io/typing-svg)
 
 - 🤝 I’m looking for help with **Database, SQL.**
 
@@ -38,3 +40,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poisk-ls&" alt="poisk-ls" /></p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D9F4&background=7855FF00&width=435&lines=Always+Trust+the+Process+^_^..)](https://git.io/typing-svg)
