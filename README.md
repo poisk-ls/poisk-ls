@@ -1,5 +1,7 @@
-<h1 align="center">Hello there 👋, I'm Jade poisk-ls</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there, Nice to see you.</h1>
 <h3 align="center">I'm presently learning Database.</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Jade+poisk%C3%B1-ls%2C+21+years+old;Database,+Sql,+MySQL;Still+Studying+DBMS+and+RDBMS.;I+love+you+ding..)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poisk-ls&label=Profile%20views&color=0e75b6&style=flat" alt="poisk-ls" /> </p>
 
