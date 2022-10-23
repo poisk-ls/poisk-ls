@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@poisk_ls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@poisk_ls" height="30" width="40" /></a>
+<a href="https://twitter.com/poisk_ls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@poisk_ls" height="30" width="40" /></a>
 <a href="https://fb.com/speedy.mmsc80.thugs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="speedy.mmsc80.thugs" height="30" width="40" /></a>
 <a href="https://instagram.com/buhayanjade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="buhayanjade" height="30" width="40" /></a>
 <a href="https://discord.gg/jade-posk-ls#1435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jade-posk-ls#1435" height="30" width="40" /></a>
