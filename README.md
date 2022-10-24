@@ -20,7 +20,7 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=44DBF7&background=7855FF00&width=435&lines=To+my+Special+Partner+I+hope;you'll+be+fine+and+safe+<3)](https://git.io/typing-svg)
 
-- 💬 Feel free to discuss with me about **Database, SQL, MySQL, etc.**
+- <img src="https://emojis.slackmojis.com/emojis/images/1643515200/12186/mohawk_party_blob.gif?1643515200" width="30"/>Feel free to discuss with me about **Database, SQL, MySQL, etc.**
 
 - 🤳 𝙸`𝚖 𝚞𝚜𝚒𝚗𝚐 **Termux terminal on android.**
 
