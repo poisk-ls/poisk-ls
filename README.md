@@ -44,11 +44,11 @@
 text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycertificate.jpg?raw=true)
 
 ### Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poisk-ls&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="poisk-ls" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poisk-ls&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="poisk-ls" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poisk-ls&show_icons=true&locale=en&theme=tokyonight" alt="poisk-ls" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poisk-ls&show_icons=true&locale=en&theme=highcontrast" alt="poisk-ls" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poisk-ls&&theme=tokyonight" alt="poisk-ls" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poisk-ls&&theme=highcontrast" alt="poisk-ls" /></p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D9F4&background=7855FF00&width=435&lines=Always+Trust+the+Process+^_^..)](https://git.io/typing-svg)
 
