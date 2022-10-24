@@ -16,7 +16,7 @@
 
 - 🌱 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ sᴛᴜᴅʏɪɴɢ **DBMS and RDBMS.**
 
-- 💖 ᴍʏ Sᴘᴇᴄɪᴀʟ Sᴏᴍᴇᴏɴᴇ **Glyza**
+- <img src="https://emojis.slackmojis.com/emojis/images/1643514442/4239/blob-hearts.gif?1643514442"  width="40"/> ᴍʏ Sᴘᴇᴄɪᴀʟ Sᴏᴍᴇᴏɴᴇ **Glyza**
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=44DBF7&background=7855FF00&width=435&lines=To+my+Special+Partner+I+hope;you'll+be+fine+and+safe+<3)](https://git.io/typing-svg)
 
