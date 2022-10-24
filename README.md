@@ -43,6 +43,7 @@
 ![alt
 text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycertificate.jpg?raw=true)
 
+### Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poisk-ls&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="poisk-ls" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poisk-ls&show_icons=true&locale=en&theme=tokyonight" alt="poisk-ls" /></p>
