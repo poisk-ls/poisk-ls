@@ -18,9 +18,9 @@
 
 - 💖 ᴍʏ Sᴘᴇᴄɪᴀʟ Sᴏᴍᴇᴏɴᴇ **Glyza**
 
-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=44DBF7&background=7855FF00&width=435&lines=To+my+Special+Partner+I+hope;you'll+be+fine+and+safe+<3)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=44DBF7&background=7855FF00&width=435&lines=To+my+Special+Partner+I+hope;you'll+be+fine+and+safe+<3)](https://git.io/typing-svg)
 
-- 🤝 𝙸`𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 for help with **Database, SQL, MySQL, etc.**
+- 💬 Feel free to discuss with me about **Database, SQL, MySQL, etc.**
 
 - 🤳 𝙸`𝚖 𝚞𝚜𝚒𝚗𝚐 **Termux terminal on android.**
 
@@ -53,7 +53,7 @@
 ![alt text](https://github.com/poisk-ls/poisk-ls/blob/main/akunbendi.jpg?raw=true)
 
 
-**DB table**
+**My work in DB**
 ![alt
 text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/db1.jpg?raw=true)
 ![alt
