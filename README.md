@@ -1,7 +1,8 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there, Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ʜᴇʟʟᴏ ᴛʜᴇʀᴇ, ɴɪᴄᴇ ᴛᴏ sᴇᴇ ʏᴀʜ シ︎</h1>
 <h3 align="center">I'm presently learning Database.</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Jade+poisk-ls%2C+21+years+old;Database,+Sql,+MySQL;Still+Studying+DBMS+and+RDBMS.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Jade+poisk-ls%2C+21+years+old;ᴅᴀᴛᴀʙᴀsᴇ,+Sǫʟ,+Mʏsǫʟ;𝚜𝚝𝚒𝚕𝚕+𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐+𝙳𝙱𝙼𝚂+𝚊𝚗𝚍+𝚁𝙳𝙱𝙼𝚂..;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=ɪ+ᴄᴀɴ+ᴍᴏᴅ+ᴀᴘᴘ+ᴀɴᴅ+ɢᴀᴍᴇs+ᴜsɪɴɢ;ʟᴜᴄᴋʏᴘᴀᴛᴄʜᴇʀ,+ʜᴀᴄᴋᴀᴘᴘᴅᴀᴛᴀ,+ᴀɴᴅ;ɢᴀᴍᴇɢᴜᴀʀᴅɪᴀɴ..;)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poisk-ls&label=Profile%20views&color=0e75b6&style=flat" alt="poisk-ls" /> </p>
 
@@ -11,19 +12,19 @@
 
 <p align="left"> <a href="https://twitter.com/poisk_ls" target="blank"><img src="https://img.shields.io/twitter/follow/poisk_ls?logo=twitter&style=for-the-badge" alt="poisk_ls" /></a> </p>
 
-- 🌱 I’m currently studying **DBMS and RDBMS.**
+- 🌱 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ sᴛᴜᴅʏɪɴɢ **DBMS and RDBMS.**
 
-- 💖 My Special someone **Glyza**
+- 💖 ᴍʏ Sᴘᴇᴄɪᴀʟ Sᴏᴍᴇᴏɴᴇ **Glyza**
 
 - [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=44DBF7&background=7855FF00&width=435&lines=To+my+Special+Partner+I+hope;you'll+be+fine+and+safe+<3)](https://git.io/typing-svg)
 
-- 🤝 I’m looking for help with **Database, SQL.**
+- 🤝 𝙸`𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 for help with **Database, SQL, MySQL, etc.**
 
-- 🤳 I'm using **Termux terminal on android.**
+- 🤳 𝙸`𝚖 𝚞𝚜𝚒𝚗𝚐 **Termux terminal on android.**
 
 - 📫 Feel free to reach me **bsit.3s.buhayan.jadenelson@gmail.com**
 
-- ⌨️ Insert **Do the things you love.**
+- ⌨️ Insert: **Do the things you love.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
