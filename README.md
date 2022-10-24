@@ -47,7 +47,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D9F4&background=7855FF00&width=435&lines=Always+Trust+the+Process+^_^..)](https://git.io/typing-svg)
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=jxareas&theme=gotham&area=true&hide_border=true&custom_title=Jade+poisk-ls%20Contribution%20Graph" width="100%"/></p>
+### ༒︎Github Activity༒︎
+<p><img src="https://activity-graph.herokuapp.com/graph?username=poisk-ls&theme=gotham&area=true&hide_border=true&custom_title=Jade+poisk-ls%20Contribution%20Graph" width="100%"/></p>
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=poisk-ls&theme=dracula&color=B994E6&bg_color=2B2D3D&custom_title=Jade+poisk-ls" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+Partner+💖+😍)](https://git.io/typing-svg)
 ![alt text](https://github.com/poisk-ls/poisk-ls/blob/main/akunbendi.jpg?raw=true)
