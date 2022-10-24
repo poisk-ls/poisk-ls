@@ -10,6 +10,8 @@
 
 ![Climate Spiral](https://raw.githubusercontent.com/SDRausty/SDRausty/master/ClimateSpiral.gif)
 
+![Alt Text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/15675.gif)
+
 <p align="left"> <a href="https://twitter.com/poisk_ls" target="blank"><img src="https://img.shields.io/twitter/follow/poisk_ls?logo=twitter&style=for-the-badge" alt="poisk_ls" /></a> </p>
 
 - 🌱 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ sᴛᴜᴅʏɪɴɢ **DBMS and RDBMS.**
