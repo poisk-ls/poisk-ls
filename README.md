@@ -57,7 +57,7 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
 
 ### My Repositories
 <p align="center">
-<a href="https://github.com/poisk-ls/glyde-fish"><img title="glyde-fish" src="https://github-readme-stats.vercel.app/api/pin/?username=poisk-ls&repo=glyde-fish&theme=highcontrast"></a>
+<a href="https://github.com/poisk-ls/glyde-fish"><img title="glyde-fish" src="https://github-readme-stats.vercel.app/api/pin/?username=poisk-ls&repo=glyde-fish&theme=highcontrast&description="></a>
 <a href="https://github.com/poisk-lss/Welcome-Voice"><img title="Welcom-Voice" src="https://github-readme-stats.vercel.app/api/pin/?username=poisk-ls&repo=Welcome-Voice&theme=highcontrast"></a>
 <a href="https://github.com/poisk-ls/Database-SQL-MySQL"><img title="Database-Sql-MySQL" src="https://github-readme-stats.vercel.app/api/pin/?username=poisk-ls&repo=Database-Sql-MySQL&theme=highcontrast"></a>
 <a href="https://github.com/poisk-lsls/IP-Tracer-Pro"><img title="IP-Tracer-Pro" src="https://github-readme-stats.vercel.app/api/pin/?username=poisk-ls&repo=IP-Tracer-Pro&theme=vision-friendly-dark"></a>
