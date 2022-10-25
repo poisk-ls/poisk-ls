@@ -1,6 +1,5 @@
 | [![Jade](https://img.shields.io/badge/Jade%20poisk-ls-yellow)](#) | [![Followers](https://img.shields.io/github/followers/poisk-ls)](#) | [![Stars](https://img.shields.io/github/stars/poisk-ls?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | 
 --| --| --|
-<!--[![Profile Views](https://komarev.com/ghpvc/?username=david-kariuki&color=red)](#) -->
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643515374/13924/blueblob_jump.gif?1643515374"  width="30"/> ʜᴇʟʟᴏ ᴛʜᴇʀᴇ, ɴɪᴄᴇ ᴛᴏ sᴇᴇ ʏᴀʜ シ︎</h1>
 <p align="center">Be like terminal able to do anything but under the limits. </p>
@@ -26,7 +25,7 @@
 
 - <img src="https://emojis.slackmojis.com/emojis/images/1643515200/12186/mohawk_party_blob.gif?1643515200" width="30"/>Feel free to discuss with me about **Database, SQL, MySQL, etc.**
 
-- 🤳 𝙸`𝚖 𝚞𝚜𝚒𝚗𝚐 **Termux terminal on android.**
+- 🤳 I've using **Termux terminal on android.**
 
 - 📫 Feel free to reach me **bsit.3s.buhayan.jadenelson@gmail.com**
 
@@ -93,5 +92,6 @@ Name | Command |
  IP-Tracer-Pro | https://github.com/poisk-ls/IP-Tracer-Pro
  Mod-Games | https://github.com/poisk-ls/Mod-Games
  Pro-AI | https://github.com/poisk-ls/Pro-AI
+ Termux-simple-Intro | https://github.com/poisk-ls/Termux-simple-Intro
 
 ![Alt text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/3102.gif)
