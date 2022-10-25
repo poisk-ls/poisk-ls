@@ -55,6 +55,17 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poisk-ls&&theme=highcontrast" alt="poisk-ls" /></p>
 
+### My Repositories
+<p align="center">
+<a href="https://github.com/poisk-ls/glyde-fish"><img title="glyde-fish" src="https://github-readme-stats.vercel.app/api/pin/?username=poisk-ls&repo=glyde-fish&theme=highcontrast"></a>
+<a href="https://github.com/poisk-lss/Welcome-Voice"><img title="Welcom-Voice" src="https://github-readme-stats.vercel.app/api/pin/?username=poisk-ls&repo=Welcome-Voice&theme=highcontrast"></a>
+<a href="https://github.com/poisk-ls/Database-SQL-MySQL"><img title="Database-Sql-MySQL" src="https://github-readme-stats.vercel.app/api/pin/?username=poisk-ls&repo=Database-Sql-MySQL&theme=highcontrast"></a>
+<a href="https://github.com/poisk-lsls/IP-Tracer-Pro"><img title="IP-Tracer-Pro" src="https://github-readme-stats.vercel.app/api/pin/?username=poisk-ls&repo=IP-Tracer-Pro&theme=vision-friendly-dark"></a>
+<a href="https://github.com/poisk-ls/Mod-Games"><img title="Mod-Games" src="https://github-readme-stats.vercel.app/api/pin/?username=poisk-ls&repo=Mod-Games&theme=highcontrast"></a>
+<a href="https://github.com/poisk-ls/Termux-simple-Intro"><img title="Termux-simple-Intro" src="https://github-readme-stats.vercel.app/api/pin/?username=poisk-ls&repo=Termux-simple-Intro&theme=highcontrast"></a>
+<a href="https://github.com/poisk-ls/Pro-AI"><img title="Pro-AI" src="https://github-readme-stats.vercel.app/api/pin/?username=poisk-ls&repo=Pro-AI&theme=highcontrast"></a>
+</p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D9F4&background=7855FF00&width=435&lines=Always+Trust+the+Process+^_^..)](https://git.io/typing-svg)
 
 ### Graph
@@ -83,7 +94,7 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/table6
 ![alt
 text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/table7.jpg?raw=true)
 
-# **Customize Repositories**
+**My Repositories Collection**
 Name | Command |
 :-- | :--: |
  glyde-fish | https://github.com/poisk-ls/glyde-fish
