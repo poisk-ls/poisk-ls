@@ -1,3 +1,7 @@
+| [![Jade](https://img.shields.io/badge/Jade%20poisk-ls-yellow)](#) | [![Followers](https://img.shields.io/github/followers/poisk-ls)](#) | [![Stars](https://img.shields.io/github/stars/poisk-ls?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | 
+--| --| --|
+<!--[![Profile Views](https://komarev.com/ghpvc/?username=david-kariuki&color=red)](#) -->
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643515374/13924/blueblob_jump.gif?1643515374"  width="30"/> ʜᴇʟʟᴏ ᴛʜᴇʀᴇ, ɴɪᴄᴇ ᴛᴏ sᴇᴇ ʏᴀʜ シ︎</h1>
 <p align="center">Be like terminal able to do anything but under the limits. </p>
 
