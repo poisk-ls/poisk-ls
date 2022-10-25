@@ -55,6 +55,8 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poisk-ls&&theme=highcontrast" alt="poisk-ls" /></p>
 
+<p><img src="https://alanwalker.com/wp-content/themes/alanwalker/assets/AW-logo_main_white.png" alt="Alan Walker logo" /></p>
+
 ### My Repositories
 <p align="center">
 <a href="https://github.com/poisk-ls/glyde-fish"><img title="glyde-fish" src="https://github-readme-stats.vercel.app/api/pin/?username=poisk-ls&repo=glyde-fish&theme=highcontrast&description="></a>
