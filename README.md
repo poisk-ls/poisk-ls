@@ -64,10 +64,10 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
 <a href="https://github.com/poisk-ls/Database-Sql-MySQL"><img title="Database-Sql-MySQL" src="https://github-readme-stats.vercel.app/api/pin/?username=poisk-ls&repo=Database-Sql-MySQL&theme=highcontrast&description=?"></a>
 <a href="https://github.com/poisk-ls/IP-Tracer-Pro"><img title="IP-Tracer-Pro" src="https://github-readme-stats.vercel.app/api/pin/?username=poisk-ls&repo=IP-Tracer-Pro&theme=highcontrast&description=?"></a>
 <a href="https://github.com/poisk-ls/Mod-Games"><img title="Mod-Games" src="https://github-readme-stats.vercel.app/api/pin/?username=poisk-ls&repo=Mod-Games&theme=highcontrast&description=?"></a>
-<a href="https://github.com/poisk-ls/Termux-simple-Intro"><img title="Termux-simple-Intro" src="https://github-readme-stats.vercel.app/api/pin/?username=poisk-ls&repo=Termux-simple-Intro&theme=highcontrast&description=?"></a>
+<a href="https://github.com/poisk-ls/Termux-simple-Intro"><img title="Termux-simple-Intro" src="https://github-readme-stats.vercel.app/api/pin/?username=poisk-ls&repo=Termux-simple-Intro&theme=highcontrast&description=?jade"></a>
 <a href="https://github.com/poisk-ls/Pro-AI"><img title="Pro-AI" src="https://github-readme-stats.vercel.app/api/pin/?username=poisk-ls&repo=Pro-AI&theme=highcontrast&description=?"></a>
 <a href="https://github.com/poisk-ls/jade-cmd"><img title="jade-cmd" src="https://github-readme-stats.vercel.app/api/pin/?username=poisk-ls&repo=jade-cmd&theme=highcontrast&description=?"></a>
-<a href="https://github.com/poisk-ls/termux-extra-key"><img title="termux-extra-key" src="https://github-readme-stats.vercel.app/api/pin/?username=poisk-ls&repo=termux-extra-key&theme=highcontrast&description=?dd"></a>
+<a href="https://github.com/poisk-ls/termux-extra-key"><img title="termux-extra-key" src="https://github-readme-stats.vercel.app/api/pin/?username=poisk-ls&repo=termux-extra-key&theme=highcontrast&description=?jade"></a>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D9F4&background=7855FF00&width=435&lines=Always+Trust+the+Process+^_^..)](https://git.io/typing-svg)
