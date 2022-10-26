@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=poisk-ls&theme=juicyfresh" alt="poisk-ls" /> </p>
 
-![Climate Spiral](https://raw.githubusercontent.com/SDRausty/SDRausty/master/ClimateSpiral.gif)
+![Climate Spiral](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/ClimateSpiral.gif)
 
 ![Alt Text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/15675.gif)
 
@@ -73,8 +73,7 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D9F4&background=7855FF00&width=435&lines=Always+Trust+the+Process+^_^..)](https://git.io/typing-svg)
 
 ### Graph
-<p><img src="https://activity-graph.herokuapp.com/graph?username=poisk-ls&theme=gotham&area=true&hide_border=true&custom_title=Jade+poisk-ls%20Contribution%20Graph" width="100%"/></p>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=poisk-ls&theme=dracula&color=B994E6&bg_color=2B2D3D&custom_title=Jade+poisk-ls" />
+<p><img src="https://activity-graph.herokuapp.com/graph?username=poisk-ls&theme=merko&area=true&hide_border=true&custom_title=Jade+poisk-ls%20Contribution%20Graph" width="100%"/></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+Partner+💖+😍)](https://git.io/typing-svg)
 ![alt text](https://github.com/poisk-ls/poisk-ls/blob/main/akunbendi.jpg?raw=true)
