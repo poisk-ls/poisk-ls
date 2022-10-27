@@ -7,6 +7,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Jade+poisk-ls%2C+21+years+old;ᴅᴀᴛᴀʙᴀsᴇ,+Sǫʟ,+Mʏsǫʟ;𝚜𝚝𝚒𝚕𝚕+𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐+𝙳𝙱𝙼𝚂+𝚊𝚗𝚍+𝚁𝙳𝙱𝙼𝚂..;)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=ɪ+ᴄᴀɴ+ᴍᴏᴅ+ᴀᴘᴘ+ᴀɴᴅ+ɢᴀᴍᴇs+ᴜsɪɴɢ;ʟᴜᴄᴋʏᴘᴀᴛᴄʜᴇʀ,+ʜᴀᴄᴋᴀᴘᴘᴅᴀᴛᴀ,+ᴀɴᴅ;ɢᴀᴍᴇɢᴜᴀʀᴅɪᴀɴ..;)](https://git.io/typing-svg)
 
+![Alt text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/db.gif)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poisk-ls&label=Profile%20views&color=0e75b6&style=flat" alt="poisk-ls" /> </p>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=poisk-ls&theme=juicyfresh" alt="poisk-ls" /> </p>
@@ -77,9 +80,8 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
 ### Graph
 <p><img src="https://activity-graph.herokuapp.com/graph?username=poisk-ls&theme=merko&area=true&hide_border=true&custom_title=Jade+poisk-ls%20Contribution%20Graph" width="100%"/></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+Partner+💖+😍)](https://git.io/typing-svg)
-![alt text](https://github.com/poisk-ls/poisk-ls/blob/main/akunbendi.jpg?raw=true)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=life+moment🖤🥀)](https://git.io/typing-svg)
+![Alt text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/ours.gif)
 
 **My Repositories Collection**
 id | Name | Command |
@@ -93,5 +95,6 @@ id | Name | Command |
 7 |Termux-simple-Intro | https://github.com/poisk-ls/Termux-simple-Intro
 8 |jade-cmd | https://github.com/poisk-ls/jade-cmd
 9 |termux-extra-key | https://github.com/poisk-ls/termux-extra-key
+
 
 ![Alt text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/3102.gif)
