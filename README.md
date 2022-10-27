@@ -33,9 +33,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/poisk_ls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="poisk_ls" height="30" width="40" /></a>
 <a href="https://facebook.com/speedy.mmsc80.thugs" target="_blank"><img src="https://img.shields.io/badge/FaceBook-speedy.mmsc80.thugs-purple?style=for-the-badge&logo=facebook"></a>
 <a href="https://m.me/speedy.mmsc80.thugs" target="_blank"><img src="https://img.shields.io/badge/Messenger-speedy.mmsc80.thugs-red?style=for-the-badge&logo=messenger"></a>
+
+<a href="https://twitter.com/poisk_ls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="poisk_ls" height="30" width="40" /></a>
 <a href="https://instagram.com/buhayanjade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="buhayanjade" height="30" width="40" /></a>
 <a href="https://discord.gg/jade-posk-ls#1435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jade-posk-ls#1435" height="30" width="40" /></a>
 </p>
@@ -81,16 +82,16 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
 
 
 **My Repositories Collection**
-Name | Command |
-:-- | :--: |
- glyde-fish | https://github.com/poisk-ls/glyde-fish
-  Welcome-Voice | https://github.com/poisk-ls/Welcome-Voice
- Database-SQL-MySQL | https://github.com/poisk-ls/Database-Sql-MySQL
- IP-Tracer-Pro | https://github.com/poisk-ls/IP-Tracer-Pro
- Mod-Games | https://github.com/poisk-ls/Mod-Games
- Pro-AI | https://github.com/poisk-ls/Pro-AI
- Termux-simple-Intro | https://github.com/poisk-ls/Termux-simple-Intro
- jade-cmd | https://github.com/poisk-ls/jade-cmd
- termux-extra-key | https://github.com/poisk-ls/termux-extra-key
+id | Name | Command |
+:-- | :--: | :-- |
+1 |glyde-fish | https://github.com/poisk-ls/glyde-fish
+2 |Welcome-Voice | https://github.com/poisk-ls/Welcome-Voice
+3 |Database-SQL-MySQL | https://github.com/poisk-ls/Database-Sql-MySQL
+4 |IP-Tracer-Pro | https://github.com/poisk-ls/IP-Tracer-Pro
+5 |Mod-Games | https://github.com/poisk-ls/Mod-Games
+6 |Pro-AI | https://github.com/poisk-ls/Pro-AI
+7 |Termux-simple-Intro | https://github.com/poisk-ls/Termux-simple-Intro
+8 |jade-cmd | https://github.com/poisk-ls/jade-cmd
+9 |termux-extra-key | https://github.com/poisk-ls/termux-extra-key
 
 ![Alt text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/3102.gif)
