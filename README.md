@@ -87,7 +87,7 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
 
 **My Repositories Collection**
 id | Name | Command |
-:-- | :--: | :-- |
+-- |--|--|
 1 |glyde-fish | https://github.com/poisk-ls/glyde-fish
 2 |Welcome-Voice | https://github.com/poisk-ls/Welcome-Voice
 3 |Database-SQL-MySQL | https://github.com/poisk-ls/Database-Sql-MySQL
