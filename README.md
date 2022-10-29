@@ -65,17 +65,17 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
 <p><img src="https://alanwalker.com/wp-content/themes/alanwalker/assets/AW-logo_main_white.png" alt="Alan Walker logo" /></p>
 
 ### My Repositories
-<p align="center">
-<a href="https://github.com/poisk-ls/glyde-fish"><img title="glyde-fish" src="https://github-readme-stats.vercel.app/api/pin/?username=poisk-ls&repo=glyde-fish&theme=highcontrast&description="></a>
-<a href="https://github.com/poisk-ls/Welcome-Voice"><img title="Welcom-Voice" src="https://github-readme-stats.vercel.app/api/pin/?username=poisk-ls&repo=Welcome-Voice&theme=highcontrast&description="></a>
-<a href="https://github.com/poisk-ls/Database-Sql-MySQL"><img title="Database-Sql-MySQL" src="https://github-readme-stats.vercel.app/api/pin/?username=poisk-ls&repo=Database-Sql-MySQL&theme=highcontrast&description=?"></a>
-<a href="https://github.com/poisk-ls/IP-Tracer-Pro"><img title="IP-Tracer-Pro" src="https://github-readme-stats.vercel.app/api/pin/?username=poisk-ls&repo=IP-Tracer-Pro&theme=highcontrast&description=?"></a>
-<a href="https://github.com/poisk-ls/Mod-Games"><img title="Mod-Games" src="https://github-readme-stats.vercel.app/api/pin/?username=poisk-ls&repo=Mod-Games&theme=highcontrast&description=?"></a>
-<a href="https://github.com/poisk-ls/Termux-simple-Intro"><img title="Termux-simple-Intro" src="https://github-readme-stats.vercel.app/api/pin/?username=poisk-ls&repo=Termux-simple-Intro&theme=highcontrast&description=?jade"></a>
-<a href="https://github.com/poisk-ls/Pro-AI"><img title="Pro-AI" src="https://github-readme-stats.vercel.app/api/pin/?username=poisk-ls&repo=Pro-AI&theme=highcontrast&description=?jade"></a>
-<a href="https://github.com/poisk-ls/jade-cmd"><img title="jade-cmd" src="https://github-readme-stats.vercel.app/api/pin/?username=poisk-ls&repo=jade-cmd&theme=highcontrast&description=?jade"></a>
-<a href="https://github.com/poisk-ls/termux-extra-key"><img title="termux-extra-key" src="https://github-readme-stats.vercel.app/api/pin/?username=poisk-ls&repo=termux-extra-key&theme=highcontrast&description=?jade"></a>
-</p>
+[![glyde-fish](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=glyde-fish&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/glydefish)
+[![Welcome-Voice](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Welcome-Voice&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/Welcome-Voice)
+[![Database-Sql-MySQL](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Database-Sql-MySQL&hide_border=true&theme=radical)](https://github.com/poisk-ls/Database-Sql-MySQL)
+[![IP-Tracer-Pro](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=IP-Tracer-Pro&hide_border=true&theme=radical)](https://github.com/poisk-ls/IP-Tracer-Pro)
+[![Mod-Games](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Mod-Games&hide_border=true&theme=radical)](https://github.com/poisk-ls/Mod-Games)
+[![Termux-simple-Intro](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Termux-simple-Intro&hide_border=true&theme=radical)](https://github.com/poisk-ls/Termux-simple-Intro)
+[![Pro-AI](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Pro-AI&hide_border=true&theme=radical)](https://github.com/poisk-ls/Pro-AI)
+[![jade-cmd](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=jade-cmd&hide_border=true&theme=radical)](https://github.com/poisk-ls/jade-cmd)
+[![termux-extra-key](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=termux-extra-key&hide_border=true&theme=radical)](https://github.com/poisk-ls/termux-extra-key)
+[![create-table-on-database](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=create-table-on-database&hide_border=true&theme=radical)](https://github.com/poisk-ls/create-table-on-database)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D9F4&background=7855FF00&width=435&lines=Always+Trust+the+Process+^_^..)](https://git.io/typing-svg)
 
@@ -97,6 +97,6 @@ id | Name | Command |
 7 |Termux-simple-Intro | https://github.com/poisk-ls/Termux-simple-Intro
 8 |jade-cmd | https://github.com/poisk-ls/jade-cmd
 9 |termux-extra-key | https://github.com/poisk-ls/termux-extra-key
-
+10 | create-table-on-database | https://github.com/poisk-ls/create-table-on-database
 
 ![Alt text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/3102.gif)
