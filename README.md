@@ -65,7 +65,7 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
 <p><img src="https://alanwalker.com/wp-content/themes/alanwalker/assets/AW-logo_main_white.png" alt="Alan Walker logo" /></p>
 
 ### My Repositories
-[![glyde-fish](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=glyde-fish&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/glydefish)
+[![glyde-fish](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=glyde-fish&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/glyde-fish)
 [![Welcome-Voice](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Welcome-Voice&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/Welcome-Voice)
 [![Database-Sql-MySQL](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Database-Sql-MySQL&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/Database-Sql-MySQL)
 [![IP-Tracer-Pro](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=IP-Tracer-Pro&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/IP-Tracer-Pro)
