@@ -71,7 +71,7 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
 [![Welcome-Voice](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Welcome-Voice&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/Welcome-Voice)
 [![Database-Sql-MySQL](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Database-Sql-MySQL&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/Database-Sql-MySQL)
 [![IP-Tracer-Pro](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=IP-Tracer-Pro&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/IP-Tracer-Pro)
-[![Mod-Games](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Mod-Games&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/Mod-Games)
+[![Mod-Games-Apps](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Mod-Games-Apps&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/Mod-Games-Apps)
 [![Termux-simple-Intro](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Termux-simple-Intro&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/Termux-simple-Intro)
 [![Pro-AI](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Pro-AI&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/Pro-AI)
 [![jade-cmd](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=jade-cmd&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/jade-cmd)
@@ -94,7 +94,7 @@ id | Name | Command |
 2 |Welcome-Voice | https://github.com/poisk-ls/Welcome-Voice
 3 |Database-SQL-MySQL | https://github.com/poisk-ls/Database-Sql-MySQL
 4 |IP-Tracer-Pro | https://github.com/poisk-ls/IP-Tracer-Pro
-5 |Mod-Games | https://github.com/poisk-ls/Mod-Games
+5 |Mod-Games-Apps | https://github.com/poisk-ls/Mod-Games-Apps
 6 |Pro-AI | https://github.com/poisk-ls/Pro-AI
 7 |Termux-simple-Intro | https://github.com/poisk-ls/Termux-simple-Intro
 8 |jade-cmd | https://github.com/poisk-ls/jade-cmd
