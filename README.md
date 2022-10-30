@@ -77,6 +77,9 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
 [![jade-cmd](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=jade-cmd&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/jade-cmd)
 [![termux-extra-key](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=termux-extra-key&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/termux-extra-key)
 [![create-table-on-database](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=create-table-on-database&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/create-table-on-database)
+[![termux-hidden-features](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=termux-hidden-features&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/termux-hidden-features)
+
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D9F4&background=7855FF00&width=435&lines=Always+Trust+the+Process+^_^..)](https://git.io/typing-svg)
@@ -100,5 +103,6 @@ id | Name | Command |
 8 |jade-cmd | https://github.com/poisk-ls/jade-cmd
 9 |termux-extra-key | https://github.com/poisk-ls/termux-extra-key
 10 |create-table-on-database | https://github.com/poisk-ls/create-table-on-database
+11 |termux-hidden-features | https://github.com/poisk-ls/termux-hidden-features
 
 ![Alt text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/3102.gif)
