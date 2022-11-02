@@ -1,3 +1,6 @@
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 | [![Jade](https://img.shields.io/badge/Jade%20poisk-ls-yellow)](#) | [![Followers](https://img.shields.io/github/followers/poisk-ls)](#) | [![Stars](https://img.shields.io/github/stars/poisk-ls?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | 
 --| --| --|
 
