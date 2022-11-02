@@ -15,9 +15,6 @@
 ### Thanks for visiting my Github Profile
 <p align="left"> <img src="https://komarev.com/ghpvc?username=poisk-ls&label=Profile%20views&color=blueviolet&style=plastic" alt="poisk-ls" /> </p>
 
-## 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=poisk-ls&theme=juicyfresh" alt="poisk-ls" /> </p>
-
 ![Climate Spiral](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/ClimateSpiral.gif)
 
 ![Alt Text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/15675.gif)
@@ -68,6 +65,10 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poisk-ls&show_icons=true&locale=en&theme=highcontrast" alt="poisk-ls" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poisk-ls&&theme=highcontrast" alt="poisk-ls" /></p>
+
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=poisk-ls&theme=juicyfresh" alt="poisk-ls" /> </p>
+
+#
 
 <p><img src="https://alanwalker.com/wp-content/themes/alanwalker/assets/AW-logo_main_white.png" alt="Alan Walker logo" /></p>
 
