@@ -27,6 +27,8 @@
 
 - ⌨️ Insert: **Do the things you love.**
 
+- 📞 Contact #: **+63 9052877252**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://facebook.com/speedy.mmsc80.thugs" target="_blank"><img src="https://img.shields.io/badge/FaceBook-speedy.mmsc80.thugs-purple?style=for-the-badge&logo=facebook"></a>
