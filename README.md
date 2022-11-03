@@ -1,7 +1,8 @@
-[![jade-poisk-ls](https://img.shields.io/badge/jade-poisk--ls-yellowgreen)](http/shields.io.svg)
-### <img src="https://emojis.slackmojis.com/emojis/images/1643515374/13924/blueblob_jump.gif?1643515374" width="30"/> ʜᴇʟʟᴏ ᴛʜᴇʀᴇ, ɴɪᴄᴇ ᴛᴏ sᴇᴇ ʏᴀʜ シ︎</p> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+### <img src="https://emojis.slackmojis.com/emojis/images/1643515374/13924/blueblob_jump.gif?1643515374" width="30"/> ʜᴇʟʟᴏ ᴛʜᴇʀᴇ, ɴɪᴄᴇ ᴛᴏ sᴇᴇ ʏᴀʜ シ︎
+ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![jade-poisk-ls](https://img.shields.io/badge/jade-poisk--ls-yellowgreen)](http/shields.io.svg)</p>
 
-<p align="center">Be like terminal able to do anything but under the limits. </p>
+<p align="center">``Be like terminal able to do anything but under the limits´´ </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Jade+poisk-ls%2C+21+years+old;ᴅᴀᴛᴀʙᴀsᴇ,+Sǫʟ,+Mʏsǫʟ;𝚜𝚝𝚒𝚕𝚕+𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐+𝙳𝙱𝙼𝚂+𝚊𝚗𝚍+𝚁𝙳𝙱𝙼𝚂..;)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=ɪ+ᴄᴀɴ+ᴍᴏᴅ+ᴀᴘᴘ+ᴀɴᴅ+ɢᴀᴍᴇs+ᴜsɪɴɢ;ʟᴜᴄᴋʏᴘᴀᴛᴄʜᴇʀ,+ʜᴀᴄᴋᴀᴘᴘᴅᴀᴛᴀ,+ᴀɴᴅ;ɢᴀᴍᴇɢᴜᴀʀᴅɪᴀɴ..;)](https://git.io/typing-svg)
@@ -41,8 +42,6 @@
 <a href="https://www.buymeacoffee.com/bsit3sbuhaY" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
 
 <a href="https://chat.whatsapp.com/DrdHqZC1OW64oJa1mJ4xiG"> <img src="https://img.shields.io/badge/WhatsAppGroup-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-<a href="https://twitter.com/poisk_ls" target="blank"><img src="https://img.shields.io/twitter/follow/poisk_ls?logo=twitter&style=for-the-badge" alt="poisk_ls" />
 
 
 <h3 align="left">Tools I've learn:</h3>
