@@ -85,6 +85,7 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
 [![create-table-on-database](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=create-table-on-database&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/create-table-on-database)
 [![termux-hidden-features](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=termux-hidden-features&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/termux-hidden-features)
 [![Information-Management-types](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Information-Management-types&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/Information-Management-types)
+[![wav-audio-hidden](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=wav-audio-hidden&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/wav-audio-hidden)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D9F4&background=7855FF00&width=435&lines=Always+Trust+the+Process+^_^..)](https://git.io/typing-svg)
@@ -98,17 +99,19 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
 **My Repositories Collection**
 id | Name | Command |
 -- |--|--|
-1 |glyde-fish | https://github.com/poisk-ls/glyde-fish
-2 |Welcome-Voice | https://github.com/poisk-ls/Welcome-Voice
-3 |Database-SQL-MySQL | https://github.com/poisk-ls/Database-Sql-MySQL
-4 |IP-Tracer-Pro | https://github.com/poisk-ls/IP-Tracer-Pro
-5 |Mod-Games-Apps | https://github.com/poisk-ls/Mod-Games-Apps
-6 |Pro-AI | https://github.com/poisk-ls/Pro-AI
-7 |Termux-simple-Intro | https://github.com/poisk-ls/Termux-simple-Intro
-8 |jade-cmd | https://github.com/poisk-ls/jade-cmd
-9 |termux-extra-key | https://github.com/poisk-ls/termux-extra-key
-10 |create-table-on-database | https://github.com/poisk-ls/create-table-on-database
-11 |termux-hidden-features | https://github.com/poisk-ls/termux-hidden-features
-12 |Information-Management-types | https://github.com/poisk-ls/Information-Management-types
+1 | poisk-ls | https://github.com/poisk-ls/poisk-ls
+2 |glyde-fish | https://github.com/poisk-ls/glyde-fish
+3 |Welcome-Voice | https://github.com/poisk-ls/Welcome-Voice
+4 |Database-SQL-MySQL | https://github.com/poisk-ls/Database-Sql-MySQL
+5 |IP-Tracer-Pro | https://github.com/poisk-ls/IP-Tracer-Pro
+6 |Mod-Games-Apps | https://github.com/poisk-ls/Mod-Games-Apps
+7 |Pro-AI | https://github.com/poisk-ls/Pro-AI
+8 |Termux-simple-Intro | https://github.com/poisk-ls/Termux-simple-Intro
+9 |jade-cmd | https://github.com/poisk-ls/jade-cmd
+10 |termux-extra-key | https://github.com/poisk-ls/termux-extra-key
+11 |create-table-on-database | https://github.com/poisk-ls/create-table-on-database
+12 |termux-hidden-features | https://github.com/poisk-ls/termux-hidden-features
+13 |Information-Management-types | https://github.com/poisk-ls/Information-Management-types
+14 |wav-audio-hidden | https://github.com/poisk-ls/wav-audio-hidden
 
 ![Alt text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/3102.gif)
