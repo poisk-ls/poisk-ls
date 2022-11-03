@@ -1,9 +1,6 @@
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![jade-poisk-ls](https://img.shields.io/badge/jade-poisk--ls-yellowgreen)](http/shields.io.svg)
+### <img src="https://emojis.slackmojis.com/emojis/images/1643515374/13924/blueblob_jump.gif?1643515374" width="30"/> ʜᴇʟʟᴏ ᴛʜᴇʀᴇ, ɴɪᴄᴇ ᴛᴏ sᴇᴇ ʏᴀʜ シ︎</p> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-| [![Jade](https://img.shields.io/badge/Jade%20poisk-ls-yellow)](#) | [![Followers](https://img.shields.io/github/followers/poisk-ls)](#) | [![Stars](https://img.shields.io/github/stars/poisk-ls?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | 
---| --| --|
-
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643515374/13924/blueblob_jump.gif?1643515374"  width="30"/> ʜᴇʟʟᴏ ᴛʜᴇʀᴇ, ɴɪᴄᴇ ᴛᴏ sᴇᴇ ʏᴀʜ シ︎</h1>
 <p align="center">Be like terminal able to do anything but under the limits. </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Jade+poisk-ls%2C+21+years+old;ᴅᴀᴛᴀʙᴀsᴇ,+Sǫʟ,+Mʏsǫʟ;𝚜𝚝𝚒𝚕𝚕+𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐+𝙳𝙱𝙼𝚂+𝚊𝚗𝚍+𝚁𝙳𝙱𝙼𝚂..;)](https://git.io/typing-svg)
