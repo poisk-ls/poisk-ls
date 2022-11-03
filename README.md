@@ -1,4 +1,3 @@
-
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 | [![Jade](https://img.shields.io/badge/Jade%20poisk-ls-yellow)](#) | [![Followers](https://img.shields.io/github/followers/poisk-ls)](#) | [![Stars](https://img.shields.io/github/stars/poisk-ls?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | 
@@ -66,10 +65,20 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poisk-ls&&theme=highcontrast" alt="poisk-ls" /></p>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=poisk-ls&theme=juicyfresh" alt="poisk-ls" /> </p>
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/poisk-ls?)
+</details> 
+
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=poisk-ls&theme=juicyfresh)
+
+</details>
 
 #
-
 <p><img src="https://alanwalker.com/wp-content/themes/alanwalker/assets/AW-logo_main_white.png" alt="Alan Walker logo" /></p>
 
 ### My Repositories
