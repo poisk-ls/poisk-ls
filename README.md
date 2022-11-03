@@ -14,12 +14,6 @@
 ### Thanks for visiting my Github Profile
 <p align="left"> <img src="https://komarev.com/ghpvc?username=poisk-ls&label=Profile%20views&color=blueviolet&style=plastic" alt="poisk-ls" /> </p>
 
-![Climate Spiral](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/ClimateSpiral.gif)
-
-![Alt Text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/15675.gif)
-
-<p align="left"> <a href="https://twitter.com/poisk_ls" target="blank"><img src="https://img.shields.io/twitter/follow/poisk_ls?logo=twitter&style=for-the-badge" alt="poisk_ls" /></a> </p>
-
 - 🌱 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ sᴛᴜᴅʏɪɴɢ **DBMS and RDBMS.**
 
 - <img src="https://emojis.slackmojis.com/emojis/images/1643514442/4239/blob-hearts.gif?1643514442"  width="40"/> ᴍʏ Sᴘᴇᴄɪᴀʟ Sᴏᴍᴇᴏɴᴇ **Glyza**
@@ -50,6 +44,9 @@
 <a href="https://www.buymeacoffee.com/bsit3sbuhaY" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
 
 <a href="https://chat.whatsapp.com/DrdHqZC1OW64oJa1mJ4xiG"> <img src="https://img.shields.io/badge/WhatsAppGroup-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+<a href="https://twitter.com/poisk_ls" target="blank"><img src="https://img.shields.io/twitter/follow/poisk_ls?logo=twitter&style=for-the-badge" alt="poisk_ls" />
+
 
 <h3 align="left">Tools I've learn:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
@@ -141,3 +138,7 @@ id | Name | Command |
 13 |wav-audio-hidden | https://github.com/poisk-ls/wav-audio-hidden
 
 ![Alt text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/3102.gif)
+![Climate Spiral](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/ClimateSpiral.gif)
+
+![Alt Text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/15675.gif)
+
