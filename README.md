@@ -58,15 +58,11 @@
 ![alt
 text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycertificate.jpg?raw=true)
 
-### Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poisk-ls&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="poisk-ls" /></p>
+##
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poisk-ls&show_icons=true&locale=en&theme=highcontrast" alt="poisk-ls" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poisk-ls&&theme=highcontrast" alt="poisk-ls" /></p>
-
+### Github Contribution
 <details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+    <summary>&#128304 <b>GitHub Activity</b></summary><br/>
 
 ![Metrics](https://metrics.lecoq.io/poisk-ls?)
 </details> 
@@ -78,7 +74,30 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
 
 </details>
 
-#
+
+<details>
+    <summary>&#128206 <b>Most used Languages</b></summary><br/>
+
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=poisk-ls&show_icons=true&locale=en&layout=compact&theme=highcontrast)
+
+</details>
+
+<details>
+    <summary>&#128681 <b>Github Stats</b></summary><br/>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=poisk-ls&show_icons=true&locale=en&theme=highcontrast)
+
+</details>
+
+<details>
+    <summary>&#128295 <b>Current Streak</b></summary><br/>
+
+![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=poisk-ls&&theme=highcontrast)
+
+</details>
+
+##
+
 <p><img src="https://alanwalker.com/wp-content/themes/alanwalker/assets/AW-logo_main_white.png" alt="Alan Walker logo" /></p>
 
 ### My Repositories
