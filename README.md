@@ -58,7 +58,7 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
 
 ### Github Contribution
 <details>
-    <summary>&#128304 <b>GitHub Activity</b></summary><br/>
+    <summary>&#128304<b>GitHub Activity</b></summary><br/>
 
 ![Metrics](https://metrics.lecoq.io/poisk-ls?)
 </details> 
