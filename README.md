@@ -1,6 +1,10 @@
 <h1> <img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="40"/> ʜᴇʟʟᴏ ᴛʜᴇʀᴇ, ɴɪᴄᴇ ᴛᴏ sᴇᴇ ʏᴀʜ シ︎☕︎ت︎</h1>
 
- [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div class='wrapper'>
+<img alt="thankyou" title="thankyou" src="https://emojis.slackmojis.com/emojis/images/1643514043/29/thankyou.gif?1643514043" />
+</div>
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![jade-poisk-ls](https://img.shields.io/badge/jade-poisk--ls-yellowgreen)](http/shields.io.svg)</p>
 
 <p align="center">``Be like terminal able to do anything but under the limits´´ </p>
