@@ -7,6 +7,13 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![jade-poisk-ls](https://img.shields.io/badge/jade-poisk--ls-yellowgreen)](http/shields.io.svg)</p>
 
+<p><center> 
+🥀𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃🥀
+ <img src="https://profile-counter.glitch.me/freeCodeCamp/count.svg" />
+</p></center>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=poisk-ls&layout=compact&theme=chartreuse-dark" />
+<p align="center">
+
 <p align="center">``Be like terminal able to do anything but under the limits´´ </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Jade+poisk-ls%2C+21+years+old;ᴅᴀᴛᴀʙᴀsᴇ,+Sǫʟ,+Mʏsǫʟ;𝚜𝚝𝚒𝚕𝚕+𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐+𝙳𝙱𝙼𝚂+𝚊𝚗𝚍+𝚁𝙳𝙱𝙼𝚂..;)](https://git.io/typing-svg)
