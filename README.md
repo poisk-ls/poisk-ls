@@ -132,6 +132,9 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
 [![termux-hidden-features](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=termux-hidden-features&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/termux-hidden-features)
 [![Information-Management-types](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Information-Management-types&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/Information-Management-types)
 [![wav-audio-hidden](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=wav-audio-hidden&hide_border=true&theme=highcontrast&description=?)](https://github.com/poisk-ls/wav-audio-hidden)
+[![android-build-prop-tweaks](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=android-build-prop-tweaks&hide_border=true&theme=highcontrast&description=?)](https://github.com/poisk-ls/wav-audio-hidden)
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D9F4&background=7855FF00&width=435&lines=Always+Trust+the+Process+^_^..)](https://git.io/typing-svg)
 
@@ -157,6 +160,7 @@ id | Name | Command |
 11 |termux-hidden-features | https://github.com/poisk-ls/termux-hidden-features
 12 |Information-Management-types | https://github.com/poisk-ls/Information-Management-types
 13 |wav-audio-hidden | https://github.com/poisk-ls/wav-audio-hidden
+14 |android-build-prop-tweaks | https://github.com/poisk-ls/android-build-prop-tweaks
 
 ![Alt text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/3102.gif)
 ![Climate Spiral](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/ClimateSpiral.gif)
