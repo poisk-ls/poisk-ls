@@ -146,23 +146,23 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
 ![Alt text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/ours.gif)
 
 **My Repositories Collection**
-id | Name | Command |
--- |--|--|
-1 |glyde-fish | https://github.com/poisk-ls/glyde-fish
-2 |Welcome-Voice | https://github.com/poisk-ls/Welcome-Voice
-3 |Database-SQL-MySQL | https://github.com/poisk-ls/Database-Sql-MySQL
-4 |IP-Tracer-Pro | https://github.com/poisk-ls/IP-Tracer-Pro
-5 |Mod-Games-Apps | https://github.com/poisk-ls/Mod-Games-Apps
-6 |Pro-AI | https://github.com/poisk-ls/Pro-AI
-7 |Termux-simple-Intro | https://github.com/poisk-ls/Termux-simple-Intro
-8 |jade-cmd | https://github.com/poisk-ls/jade-cmd
-9 |termux-extra-key | https://github.com/poisk-ls/termux-extra-key
-10 |create-table-on-database | https://github.com/poisk-ls/create-table-on-database
-11 |termux-hidden-features | https://github.com/poisk-ls/termux-hidden-features
-12 |Information-Management-types | https://github.com/poisk-ls/Information-Management-types
-13 |wav-audio-hidden | https://github.com/poisk-ls/wav-audio-hidden
-14 |android-build-prop-tweaks | https://github.com/poisk-ls/android-build-prop-tweaks
-15 | Termux-Nethunter | https://github.com/poisk-ls/Termux-Nethunter
+id | Name | Command | Status |
+-- |--|--| --|
+1 |glyde-fish | https://github.com/poisk-ls/glyde-fish | ✓
+2 |Welcome-Voice | https://github.com/poisk-ls/Welcome-Voice | ✓
+3 |Database-SQL-MySQL | https://github.com/poisk-ls/Database-Sql-MySQL | ✓
+4 |IP-Tracer-Pro | https://github.com/poisk-ls/IP-Tracer-Pro | ✓
+5 |Mod-Games-Apps | https://github.com/poisk-ls/Mod-Games-Apps | ✓
+6 |Pro-AI | https://github.com/poisk-ls/Pro-AI | ✓
+7 |Termux-simple-Intro | https://github.com/poisk-ls/Termux-simple-Intro | ✓
+8 |jade-cmd | https://github.com/poisk-ls/jade-cmd | ✓
+9 |termux-extra-key | https://github.com/poisk-ls/termux-extra-key | ✓
+10 |create-table-on-database | https://github.com/poisk-ls/create-table-on-database | ✓
+11 |termux-hidden-features | https://github.com/poisk-ls/termux-hidden-features | ✓
+12 |Information-Management-types | https://github.com/poisk-ls/Information-Management-types | ✓
+13 |wav-audio-hidden | https://github.com/poisk-ls/wav-audio-hidden | ✓
+14 |android-build-prop-tweaks | https://github.com/poisk-ls/android-build-prop-tweaks | ✓
+15 | Termux-Nethunter | https://github.com/poisk-ls/Termux-Nethunter | ✓
 
 ![Alt text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/3102.gif)
 ![Climate Spiral](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/ClimateSpiral.gif)
