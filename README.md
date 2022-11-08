@@ -118,6 +118,9 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
 
 <p><img src="https://alanwalker.com/wp-content/themes/alanwalker/assets/AW-logo_main_white.png" alt="Alan Walker logo" /></p>
 
+### Graph
+<p><img src="https://activity-graph.herokuapp.com/graph?username=poisk-ls&theme=merko&area=true&hide_border=true&custom_title=Jade+poisk-ls%20Contribution%20Graph" width="100%"/></p>
+
 ### My Repositories
 [![glyde-fish](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=glyde-fish&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/glyde-fish)
 [![Welcome-Voice](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Welcome-Voice&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/Welcome-Voice)
@@ -137,9 +140,6 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D9F4&background=7855FF00&width=435&lines=Always+Trust+the+Process+^_^..)](https://git.io/typing-svg)
-
-### Graph
-<p><img src="https://activity-graph.herokuapp.com/graph?username=poisk-ls&theme=merko&area=true&hide_border=true&custom_title=Jade+poisk-ls%20Contribution%20Graph" width="100%"/></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=life+moment🖤🥀)](https://git.io/typing-svg)
 ![Alt text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/ours.gif)
