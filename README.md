@@ -137,6 +137,7 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
 [![wav-audio-hidden](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=wav-audio-hidden&hide_border=true&theme=highcontrast&description=?)](https://github.com/poisk-ls/wav-audio-hidden)
 [![android-build-prop-tweaks](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=android-build-prop-tweaks&hide_border=true&theme=highcontrast&description=?)](https://github.com/poisk-ls/android-build-prop-tweaks)
 [![Termux-Nethunter](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Termux-Nethunter&hide_border=true&theme=highcontrast&description=?)](https://github.com/poisk-ls/Termux-Nethunter)
+[![proot-distro](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=proot-distro&hide_border=true&theme=highcontrast&description=?)](https://github.com/poisk-ls/proot-distro)
 
 
 
@@ -163,6 +164,8 @@ id | Name | Command | Status |
 13 |wav-audio-hidden | https://github.com/poisk-ls/wav-audio-hidden | ✓
 14 |android-build-prop-tweaks | https://github.com/poisk-ls/android-build-prop-tweaks | ✓
 15 | Termux-Nethunter | https://github.com/poisk-ls/Termux-Nethunter | ✓
+16 | proot-distro | https://github.com/poisk-ls/proot-distro | ✓
+
 
 ![Alt text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/3102.gif)
 ![Climate Spiral](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/ClimateSpiral.gif)
