@@ -139,6 +139,7 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
 [![Termux-Nethunter](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Termux-Nethunter&hide_border=true&theme=highcontrast&description=?)](https://github.com/poisk-ls/Termux-Nethunter)
 [![proot-distro](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=proot-distro&hide_border=true&theme=highcontrast&description=?)](https://github.com/poisk-ls/proot-distro)
 [![verifying-discord-phone](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=verifying-discord-phone&hide_border=true&theme=highcontrast&description=?)](https://github.com/poisk-ls/verifying-discord-phone)
+[![spam-discord-group](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=spam-discord-group&hide_border=true&theme=highcontrast&description=?)](https://github.com/poisk-ls/spam-discord-group)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D9F4&background=7855FF00&width=435&lines=Always+Trust+the+Process+^_^..)](https://git.io/typing-svg)
@@ -166,6 +167,7 @@ id | Name | Command | Status |
 15 | Termux-Nethunter | https://github.com/poisk-ls/Termux-Nethunter | ✓
 16 | proot-distro | https://github.com/poisk-ls/proot-distro | ✓
 17 | verifying-discord-phone | https://github.com/poisk-ls/verifying-discord-phone | ✓
+18 | spam-discord-group | https://github.com/poisk-ls/spam-discord-group | ✓
 
 ![Alt text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/3102.gif)
 ![Climate Spiral](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/ClimateSpiral.gif)
