@@ -168,6 +168,7 @@ id | Name | Command | Status |
 16 | proot-distro | https://github.com/poisk-ls/proot-distro | ✓
 17 | verifying-discord-phone | https://github.com/poisk-ls/verifying-discord-phone | ✓
 18 | spam-discord-group | https://github.com/poisk-ls/spam-discord-group | ✓
+19 | t-banner-pro | https://github.com/poisk-ls/t-banner-pro | ✓ 
 
 ![Alt text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/3102.gif)
 ![Climate Spiral](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/ClimateSpiral.gif)
