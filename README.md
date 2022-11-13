@@ -8,11 +8,8 @@
 [![jade-poisk-ls](https://img.shields.io/badge/jade-poisk--ls-yellowgreen)](http/shields.io.svg)</p>
 
 <p><center> 
-🥀𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃🥀
- <img src="https://profile-counter.glitch.me/freeCodeCamp/count.svg" />
-</p></center>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=poisk-ls&layout=compact&theme=chartreuse-dark" />
-<p align="center">
+<p align="center">🥀𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃🥀</p>
+<p align="center"> <img src="https://komarev.com/ghpvc?username=poisk-ls&label=Profile%20views&color=blueviolet&style=plastic" alt="poisk-ls" /> </p>
 
 <p align="center">``Be like terminal able to do anything but under the limits´´ </p>
 
