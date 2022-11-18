@@ -139,6 +139,7 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
 [![spam-discord-group](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=spam-discord-group&hide_border=true&theme=highcontrast&description=?)](https://github.com/poisk-ls/spam-discord-group)
 [![Termux-Banner-Pro](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Termux-Banner-Pro&hide_border=true&theme=highcontrast&description=?)](https://github.com/poisk-ls/Termux-Banner-Pro)
 [![best-modded-site](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=best-modded-site&hide_border=true&theme=highcontrast&description=?)](https://github.com/poisk-ls/best-modded-site)
+[![Wifi-Evilnet](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Wifi-Evilnet&hide_border=true&theme=highcontrast&description=?)](https://github.com/poisk-ls/Wifi-Evilnet
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D9F4&background=7855FF00&width=435&lines=Always+Trust+the+Process+^_^..)](https://git.io/typing-svg)
@@ -169,6 +170,7 @@ id | Name | Command | Status |
 18 | spam-discord-group | https://github.com/poisk-ls/spam-discord-group | 1
 19 | Termux-Banner-Pro | https://github.com/poisk-ls/Termux-Banner-Pro | 1
 20 | best-modded-site | https://github.com/poisk-ls/best-modded-site | 1
+21 | Wifi-Evilnet | https://github.com/poisk-ls/Wifi-Evilnet | 1
 
 ![Alt text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/3102.gif)
 ![Climate Spiral](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/ClimateSpiral.gif)
