@@ -25,11 +25,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc?username=poisk-ls&label=Profile%20views&color=blueviolet&style=plastic" alt="poisk-ls" /> </p>
 
 - 🌱 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ sᴛᴜᴅʏɪɴɢ **DBMS and RDBMS.**
-
-- <img src="https://emojis.slackmojis.com/emojis/images/1643514442/4239/blob-hearts.gif?1643514442"  width="40"/> ᴍʏ Sᴘᴇᴄɪᴀʟ Sᴏᴍᴇᴏɴᴇ **Glyza**
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=44DBF7&background=7855FF00&width=435&lines=To+my+Special+Partner+I+hope;you'll+be+fine+and+safe+<3)](https://git.io/typing-svg)
-
 - <img src="https://emojis.slackmojis.com/emojis/images/1643515200/12186/mohawk_party_blob.gif?1643515200" width="30"/>Feel free to discuss with me about **Database, SQL, MySQL, etc.**
 
 - 🤳 I've using **Termux terminal on android.**
@@ -145,7 +140,6 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D9F4&background=7855FF00&width=435&lines=Always+Trust+the+Process+^_^..)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=life+moment🖤🥀)](https://git.io/typing-svg)
-![Alt text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/ours.gif)
 
 **My Repositories Collection**
 id | Name | Command | Status |
@@ -172,8 +166,6 @@ id | Name | Command | Status |
 20 | best-modded-site | https://github.com/poisk-ls/best-modded-site | 1
 21 | Wifi-Evilnet | https://github.com/poisk-ls/Wifi-Evilnet | 1
 
-![Alt text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/3102.gif)
 ![Climate Spiral](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/ClimateSpiral.gif)
-
 ![Alt Text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/15675.gif)
 
