@@ -17,7 +17,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=ɪ+ᴄᴀɴ+ᴍᴏᴅ+ᴀᴘᴘ+ᴀɴᴅ+ɢᴀᴍᴇs+ᴜsɪɴɢ;ʟᴜᴄᴋʏᴘᴀᴛᴄʜᴇʀ,+ʜᴀᴄᴋᴀᴘᴘᴅᴀᴛᴀ,+ᴀɴᴅ;ɢᴀᴍᴇɢᴜᴀʀᴅɪᴀɴ..;)](https://git.io/typing-svg)
 
 ![Alt text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/db.gif)
-##
+<img align="center" alt="line" src="https://github.com/poisk-ls/poisk-ls/blob/main/asset/line-3.svg">
+
 ### Thanks for visiting my Github Profile
 <div class='wrapper'>
 <img alt="thankyou" title="thankyou" src="https://emojis.slackmojis.com/emojis/images/1643514043/29/thankyou.gif?1643514043" />
@@ -118,13 +119,13 @@
 
 </details>
 
-##
+<img align="center" alt="line" src="https://github.com/poisk-ls/poisk-ls/blob/main/asset/line-3.svg">
 
 ### My Certificate of Participation on Database..
 ![alt
 text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycertificate.jpg?raw=true)
 
-##
+<img align="center" alt="line" src="https://github.com/poisk-ls/poisk-ls/blob/main/asset/line-3.svg">
 
 ### Github Contribution
 <details>
@@ -162,7 +163,7 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
 
 </details>
 
-##
+<img align="center" alt="line" src="https://github.com/poisk-ls/poisk-ls/blob/main/asset/line-3.svg">
 
 <p><img src="https://alanwalker.com/wp-content/themes/alanwalker/assets/AW-logo_main_white.png" alt="Alan Walker logo" /></p>
 
