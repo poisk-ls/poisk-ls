@@ -36,7 +36,7 @@
 - 📞 Contact #: **+63 9052877252**
 
 <h2><img width="30" src="https://github.com/poisk-ls/poisk-ls/blob/main/asset/connectwithme.png" /> ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ ت︎</h2>
-<table>
+<table align="center">
      
  <tr>
   <td>
