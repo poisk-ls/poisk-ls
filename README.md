@@ -225,7 +225,7 @@ id | Name | Command | Status |
 20 | best-modded-site | https://github.com/poisk-ls/best-modded-site | 1
 21 | Wifi-Evilnet | https://github.com/poisk-ls/Wifi-Evilnet | 1
 23 | sn1per-OSIF | https://github.com/poisk-ls/sn1per-OSIF | 1
-24 | MySQL-work | https://github.com/poisk-ls/MySQL-work | 1 s
+24 | MySQL-work | https://github.com/poisk-ls/MySQL-work | 1 
 
 ![Climate Spiral](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/ClimateSpiral.gif)
 ![Alt Text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/15675.gif)
