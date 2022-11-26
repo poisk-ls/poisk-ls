@@ -36,6 +36,8 @@
 
 - 📞 Contact #: **+63 9052877252**
 
+- 👋 𝕴'𝖒 𝕱𝖗𝖔𝖒 🇵🇭 
+
 <h2><img width="30" src="https://github.com/poisk-ls/poisk-ls/blob/main/asset/connectwithme.png" /> ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ ت︎</h2>
 <table align="center">
      
