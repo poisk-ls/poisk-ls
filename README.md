@@ -111,7 +111,7 @@
 
   <tr>
   <td>
-     ☞︎︎︎ <strong>Paypals</strong>: <a href="https://www.paypal.com/donate/?hosted_button_id=TCD49ALNYRBKN"> <img align="center" src="https://img.shields.io/badge/donate me on paypal-1d3461?style=flat&logo=paypal&logoColor=orange"></a>
+     ☞︎︎︎ <strong>ᴘᴀʏᴘᴀʟ</strong>: <a href="https://www.paypal.com/donate/?hosted_button_id=TCD49ALNYRBKN"> <img align="center" src="https://img.shields.io/badge/donate me on paypal-1d3461?style=flat&logo=paypal&logoColor=orange"></a>
   </td>
    </tr>
 
