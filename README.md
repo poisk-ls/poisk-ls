@@ -64,7 +64,7 @@
 
   <tr>
   <td>
-     ☞︎︎︎ <strong>ʟɪɴᴅᴋᴇᴅɪɴ</strong>: <a href="https://linkedin.com/in/pending"> <img align="center" src="https://img.shields.io/badge/pending-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
+     ☞︎︎︎ <strong>ʟɪɴᴅᴋᴇᴅɪɴ</strong>: <a href="https://www.linkedin.com/in/jade-nelson-n-buhayan-754943255"> <img align="center" src="https://img.shields.io/badge/b u h a y a n-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
   </td>  
    </tr>
   
