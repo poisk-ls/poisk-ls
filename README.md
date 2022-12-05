@@ -243,8 +243,8 @@ id | Name | Command | Status |
 24 | MySQL-work | https://github.com/poisk-ls/MySQL-work | 1 
 25 | jawhead | https://github.com/poisk-ls/jawhead | 1
 26 | extractree | https://github.com/poisk-ls/extractree | 1
+27 | Termux-Installation | https://github.com/poisk-ls/Termux-Installation | 1
 
-https://github.com/poisk-ls/Termux-Installation
 ![Climate Spiral](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/ClimateSpiral.gif)
 ![Alt Text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/15675.gif)
 
