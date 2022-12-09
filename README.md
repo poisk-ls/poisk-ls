@@ -1,3 +1,4 @@
+
 <h1> <img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="40"/> ʜᴇʟʟᴏ ᴛʜᴇʀᴇ, ɴɪᴄᴇ ᴛᴏ sᴇᴇ ʏᴀʜ シ︎☕︎ت︎</h1>
 
 <div class='wrapper'>
@@ -28,7 +29,7 @@
 - 🌱 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ sᴛᴜᴅʏɪɴɢ **DBMS and RDBMS.**
 - <img src="https://emojis.slackmojis.com/emojis/images/1643515200/12186/mohawk_party_blob.gif?1643515200" width="30"/>Feel free to discuss with me about **Database, SQL, MySQL, etc.**
 
-- 🤳 I've using **Termux terminal on android.**
+- 🤳 I've using **terminal** <img width="22px" height="18px" src="https://github.com/poisk-ls/poisk-ls/blob/main/img/ic_launcher.png" /> on android.
 
 - 📫 Feel free to reach me **bsit.3s.buhayan.jadenelson@gmail.com**
 
@@ -126,7 +127,7 @@
 <details>
     <summary>&#9749 <b>CLICK ME😍</b></summary><br/>
 
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a></p>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img width="30px" src="https://github.com/poisk-ls/poisk-ls/blob/main/img/ic_launcher.png" /> </a></p>
 
 </details>
 
@@ -179,7 +180,7 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
 <p><img src="https://alanwalker.com/wp-content/themes/alanwalker/assets/AW-logo_main_white.png" alt="Alan Walker logo" /></p>
 
 ### Graph
-<p><img src="https://activity-graph.herokuapp.com/graph?username=poisk-ls&theme=merko&area=true&hide_border=true&custom_title=Jade+poisk-ls%20Contribution%20Graph" width="100%"/></p>
+<p><img src="https://activity-graph.herokuapp.com/graph?username=poisk-ls&theme=highcontrast&area=true&hide_border=true&custom_title=Jade+poisk-ls%20Contribution%20Graph" width="100%"/></p>
 
 ### My Repositories
 [![glyde-fish](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=glyde-fish&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/glyde-fish)
