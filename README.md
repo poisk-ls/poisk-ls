@@ -1,4 +1,4 @@
-<h1> <img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="40"/> ʜᴇʟʟᴏ ᴛʜᴇʀᴇ, ɴɪᴄᴇ ᴛᴏ sᴇᴇ ʏᴀʜ シ︎☕︎ت︎</h1>
+<h1> <img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="40"/> ʜᴇʟʟᴏ ᴛʜᴇʀᴇ, ɴɪᴄᴇ ᴛᴏ sᴇᴇ ʏᴀʜ シ︎☕︎ت︎ <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50"> </h1>
 
 <div class='wrapper'>
 <img alt="thankyou" title="thankyou" src="https://emojis.slackmojis.com/emojis/images/1643514043/29/thankyou.gif?1643514043" />
@@ -40,7 +40,7 @@
 
 - 👋 𝕴'𝖒 𝕱𝖗𝖔𝖒 🇵🇭 
 
-<h2><img width="30" src="https://github.com/poisk-ls/poisk-ls/blob/main/asset/connectwithme.png" /> ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ ت︎</h2>
+<h2><img width="30" src="https://github.com/poisk-ls/poisk-ls/blob/main/asset/connectwithme.png" /> ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ<img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="39"> </h2>
 <table align="center">
      
  <tr>
