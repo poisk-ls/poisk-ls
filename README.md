@@ -5,7 +5,9 @@
 </div>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![jade-poisk-ls](https://img.shields.io/badge/jade-poisk--ls-yellowgreen)](http/shields.io.svg)</p>
+
+
+<p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><img src="https://img.shields.io/badge/jade-poisk--ls-yellowgreen" /><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> </p>
 
 <p><center> 
 <p align="center">🥀𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃🥀</p>
