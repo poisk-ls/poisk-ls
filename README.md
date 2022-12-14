@@ -19,7 +19,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=ɪ+ᴄᴀɴ+ᴍᴏᴅ+ᴀᴘᴘ+ᴀɴᴅ+ɢᴀᴍᴇs+ᴜsɪɴɢ;ʟᴜᴄᴋʏᴘᴀᴛᴄʜᴇʀ,+ʜᴀᴄᴋᴀᴘᴘᴅᴀᴛᴀ,+ᴀɴᴅ;ɢᴀᴍᴇɢᴜᴀʀᴅɪᴀɴ..;)](https://git.io/typing-svg)
 
 ![Alt text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/db.gif)
-<img align="center" alt="line" src="https://github.com/poisk-ls/poisk-ls/blob/main/asset/line-3.svg">
+<img align="center" alt="line" src="https://github.com/poisk-ls/poisk-ls/blob/main/asset/line-1.svg">
 
 ### Thanks for visiting my Github Profile
 <div class='wrapper'>
