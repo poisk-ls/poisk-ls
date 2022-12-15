@@ -220,7 +220,7 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=life+moment🥀🖤)](https://git.io/typing-svg)
 
-<a href="https://github.com/poisk-ls/My-Repositories-Collection"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Here's%20My%20Repositories%20Collection-61fdf6?style=for-the-badge&logoColor=White&logo=repo"/></a>
+<a href="https://github.com/poisk-ls/My-Repositories-Collection"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Here's%20My%20Repositories%20Collection-61fd6d?style=for-the-badge&logoColor=Red&logo=repo"/></a>
  
 
 **My Repositories Collection**
