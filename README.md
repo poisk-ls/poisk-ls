@@ -183,6 +183,12 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
      » [Spectre - Alan Walker] «
          0:21 ─〇───── 3:46
          ⇄   ◃◃   ⅠⅠ   ▹▹   ↻
+<img align="center" alt="line" src="https://github.com/poisk-ls/poisk-ls/blob/main/asset/line-2.svg">
+
+<h3 align="left">My Graph Activity</h3>
+  
+[![poisk-ls github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=poisk-ls&theme=merko)](https://github.com/poisk-ls/github-readme-activity-graph)
+
 
 ### My Repositories
 [![glyde-fish](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=glyde-fish&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/glyde-fish)
