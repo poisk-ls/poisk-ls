@@ -218,6 +218,8 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
 [![extractree](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=extractree&hide_border=true&theme=highcontrast&description=11)](https://github.com/poisk-ls/extractree)
 [![Termux-Installation](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Termux-Installation&hide_border=true&theme=highcontrast&description=11)](https://github.com/poisk-ls/Termux-Installation)
 [![html-sourcecode](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=html-sourcecode&hide_border=true&theme=highcontrast&description=11)](https://github.com/poisk-ls/html-sourcecode)
+[![XAMPP](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=XAMPP&hide_border=true&theme=highcontrast&description=11)](https://github.com/poisk-ls/XAMPP)
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D9F4&background=7855FF00&width=435&lines=Always+Trust+the+Process+^_^..)](https://git.io/typing-svg)
@@ -259,6 +261,7 @@ id | Name | Command | Status |
 26 | extractree | https://github.com/poisk-ls/extractree | 1
 27 | Termux-Installation | https://github.com/poisk-ls/Termux-Installation | 1
 28 | html-sourcecode | https://github.com/poisk-ls/html-sourcecode | 1
+29 | XAMPP | https://github.com/poisk-ls/XAMPP | 1
 
 ![Climate Spiral](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/ClimateSpiral.gif)
 ![Alt Text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/15675.gif)
