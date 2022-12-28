@@ -181,6 +181,11 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
     <img src="https://github.com/poisk-ls/poisk-ls/blob/main/asset/fullyear-cal.svg" alt=""></img></details>
 </details>
 
+<details>
+    <summary>😎 <b>My Terminal</b></summary><br/>
+    <img src="https://github.com/poisk-ls/poisk-ls/blob/main/asset/terminal.svg" alt=""></img></details>
+</details>
+
 <img align="center" alt="line" src="https://github.com/poisk-ls/poisk-ls/blob/main/asset/line-3.svg">
 
 <p><img src="https://alanwalker.com/wp-content/themes/alanwalker/assets/AW-logo_main_white.png" alt="Alan Walker logo" /></p>
