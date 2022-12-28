@@ -81,6 +81,13 @@
     ☞︎︎︎ <strong>ᴅɪsᴄᴏʀᴅ</strong>: <a href="https://discord.gg/jade-posk-ls#1435"> <img align="center" src="https://img.shields.io/badge/ᴊᴀᴅᴇ ᴘᴏɪsᴋ-0A0A0A?style=flat&logo=discord&logoColor=white"></a>  
   </td>
    </tr> 
+
+<tr>
+ <td>
+    ☞︎︎︎ <strong>sᴛᴀᴄᴋᴏᴠᴇʀғʟᴏᴡ</strong>: <a href="https://stackoverflow.com/users/19919040/poisk-ls"> <img align="center" src="https://img.shields.io/badge/ᴠɪsɪᴛ ᴍᴇ-0A0A0A?style=flat&logo=stackoverflow&logoColor=white"></a>  
+  </td>
+   </tr> 
+
 <tr>
   <td>
      ☞︎︎︎ <strong>ᴡʜᴀᴛsᴀᴘᴘ</strong>: <a href="https://wa.me/639052877252?text=Hi%20Im%20Jade"> <img align="center" src="https://img.shields.io/badge/ᴊ ᴀ ᴅ ᴇ-2962FF?style=flat&logo=whatsapp&logoColor=white"></a>
