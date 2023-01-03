@@ -10,8 +10,8 @@
 <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><img src="https://img.shields.io/badge/jade-poisk--ls-yellowgreen" /><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> </p>
 
 <p><center> 
-<p align="center">🥀𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃🥀</p>
-<p align="center"> <img src="https://komarev.com/ghpvc?username=poisk-ls&label=Profile%20views&color=blueviolet&style=plastic" alt="poisk-ls" /> </p>
+<p align="center">🥀𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂🥀</p>
+<p align="center"> <img src="https://komarev.com/ghpvc?username=poisk-ls&label=My%20Visitors&color=blueviolet&style=plastic" alt="poisk-ls" /> </p>
 
 <p align="center">``Be like terminal able to do anything but under the limits´´ </p>
 
@@ -25,7 +25,7 @@
 <div class='wrapper'>
 <img alt="thankyou" title="thankyou" src="https://emojis.slackmojis.com/emojis/images/1643514043/29/thankyou.gif?1643514043" />
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc?username=poisk-ls&label=Profile%20views&color=blueviolet&style=plastic" alt="poisk-ls" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc?username=poisk-ls&label=My%20Visitors&color=blueviolet&style=plastic" alt="poisk-ls" /> </p>
 
 - 🌱 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ sᴛᴜᴅʏɪɴɢ **DBMS and RDBMS.**
 - <img src="https://emojis.slackmojis.com/emojis/images/1643515200/12186/mohawk_party_blob.gif?1643515200" width="30"/>Feel free to discuss with me about **Database, SQL, MySQL, etc.**
