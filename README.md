@@ -108,7 +108,7 @@
 
   <tr>
   <td>
-     ☞︎︎︎ <strong>ʙᴜʏᴍᴇᴀᴄᴏғғᴇᴇ</strong>: <a href="https://www.buymeacoffee.com/bsit3sbuhaY"> <img align="center" src="https://img.shields.io/badge/ᴊ ᴀ ᴅ ᴇ ʟs-1d3461?style=flat&logo=buymeacoffee&logoColor=orange"></a>
+     ☞︎︎︎ <strong>ʙᴜʏᴍᴇᴀᴄᴏғғᴇᴇ</strong>: <a href="https://www.buymeacoffee.com/jadepoiskls"> <img align="center" src="https://img.shields.io/badge/ᴊ ᴀ ᴅ ᴇ ʟs-1d3461?style=flat&logo=buymeacoffee&logoColor=orange"></a>
   </td>
    </tr>
 
