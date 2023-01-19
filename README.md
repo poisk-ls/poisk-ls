@@ -82,7 +82,7 @@
 
    <tr>
  <td>
-    ☞︎︎︎ <strong>ᴅɪsᴄᴏʀᴅ</strong>: <a href="https://discord.gg/jade-posk-ls#1435"> <img align="center" src="https://img.shields.io/badge/ᴊᴀᴅᴇ ᴘᴏɪsᴋ-0A0A0A?style=flat&logo=discord&logoColor=white"></a>  
+    ☞︎︎︎ <strong>ᴅɪsᴄᴏʀᴅ</strong>: <a href="https://discord.gg/santet#6486"> <img align="center" src="https://img.shields.io/badge/J A D E-0A0A0A?style=flat&logo=discord&logoColor=white"></a>  
   </td>
    </tr> 
 
