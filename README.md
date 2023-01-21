@@ -128,6 +128,11 @@
   </td>
    </tr>
 
+  <tr>
+  <td>
+     ☞︎︎︎ <strong>ʙʟᴏɢsᴘᴏᴛ</strong>: <a href="https://poisk-ls.blogspot.com/?m=1"> <img align="center" src="https://img.shields.io/badge/J a d e-EA4C89?style=flat&logo=kalilinux&logoColor=white"></a>
+  </td>
+   </tr>
 
 
 
