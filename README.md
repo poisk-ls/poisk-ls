@@ -292,5 +292,6 @@ id | Name | Command | Status |
 29 | XAMPP | https://github.com/poisk-ls/XAMPP | 1
 
 ![Climate Spiral](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/ClimateSpiral.gif)
-![Alt Text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/15675.gif)
+<img align="center" alt="line" width="350" src="https://github.com/poisk-ls/poisk-ls/blob/main/src/pro.gif">
+<img img-align="center" width="330" src="https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/15675.gif" width="200">
 
