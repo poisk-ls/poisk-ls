@@ -23,7 +23,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=ɪ+ᴄᴀɴ+ᴍᴏᴅ+ᴀᴘᴘ+ᴀɴᴅ+ɢᴀᴍᴇs+ᴜsɪɴɢ;ʟᴜᴄᴋʏᴘᴀᴛᴄʜᴇʀ,+ʜᴀᴄᴋᴀᴘᴘᴅᴀᴛᴀ,+ᴀɴᴅ;ɢᴀᴍᴇɢᴜᴀʀᴅɪᴀɴ..;)](https://git.io/typing-svg)
 
 ![Alt text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/db.gif)
-<img align="center" alt="line" src="https://github.com/poisk-ls/poisk-ls/blob/main/asset/line-1.svg">
+<img align="center" alt="line" width="350" src="https://github.com/poisk-ls/poisk-ls/blob/main/src/pro.gif">
 
 ### Thanks for visiting my Github Profile
 <div class='wrapper'>
@@ -43,6 +43,8 @@
 - 📞 Phone : **+63 9052877252**
 
 - 👋 𝕴'𝖒 𝕱𝖗𝖔𝖒 🇵🇭 
+
+<img align="center" alt="line" width="350" src="https://github.com/poisk-ls/poisk-ls/blob/main/src/pro.gif">
 
 <h2><img width="30" src="https://github.com/poisk-ls/poisk-ls/blob/main/asset/connectwithme.png" /> ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ<img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="39"> </h2>
 <table align="center">
@@ -148,13 +150,13 @@
 
 </details>
 
-<img align="center" alt="line" src="https://github.com/poisk-ls/poisk-ls/blob/main/asset/line-3.svg">
+<img align="center" alt="line" width="350" src="https://github.com/poisk-ls/poisk-ls/blob/main/src/pro.gif">
 
 ### My Certificate of Participation on Database..
 ![alt
 text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycertificate.jpg?raw=true)
 
-<img align="center" alt="line" src="https://github.com/poisk-ls/poisk-ls/blob/main/asset/line-3.svg">
+<img align="center" alt="line" width="350" src="https://github.com/poisk-ls/poisk-ls/blob/main/src/pro.gif">
 
 ### Github Contribution
 <details>
@@ -202,14 +204,14 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
     <img src="https://github.com/poisk-ls/poisk-ls/blob/main/asset/terminal.svg" alt=""></img></details>
 </details>
 
-<img align="center" alt="line" src="https://github.com/poisk-ls/poisk-ls/blob/main/asset/line-3.svg">
+<img align="center" alt="line" width="350" src="https://github.com/poisk-ls/poisk-ls/blob/main/src/pro.gif">
 
 <p><img src="https://alanwalker.com/wp-content/themes/alanwalker/assets/AW-logo_main_white.png" alt="Alan Walker logo" /></p>
 
      » [Spectre - Alan Walker] «
          0:21 ─〇───── 3:46
          ⇄   ◃◃   ⅠⅠ   ▹▹   ↻
-<img align="center" alt="line" src="https://github.com/poisk-ls/poisk-ls/blob/main/asset/line-2.svg">
+<img align="center" alt="line" width="350" src="https://github.com/poisk-ls/poisk-ls/blob/main/src/pro.gif">
 
 <h3 align="left">My Graph Activity</h3>
   
