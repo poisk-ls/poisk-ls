@@ -219,7 +219,6 @@ text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/mycert
 
 <h3 align="left">My Graph Activity</h3>
   
-[![poisk-ls github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=poisk-ls&theme=merko)](https://github.com/poisk-ls/github-readme-activity-graph)
 
 
 ### My Repositories
