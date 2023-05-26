@@ -24,7 +24,11 @@
 
 ![Alt text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/db.gif)
 <img align="center" alt="line" width="350" src="https://github.com/poisk-ls/poisk-ls/blob/main/src/pro.gif">
+   
+<img align="center" width="330" src="https://github.com/poisk-ls/poisk-ls/blob/main/asset/satellite.gif" width="200">
 
+<img align="center" width="330" src="https://github.com/poisk-ls/poisk-ls/blob/main/src/pro.gif" width="200">
+   
 ### Thanks for visiting my Github Profile
 <div class='wrapper'>
 <img alt="thankyou" title="thankyou" src="https://emojis.slackmojis.com/emojis/images/1643514043/29/thankyou.gif?1643514043" />
@@ -51,14 +55,14 @@
      
  <tr>
   <td>
-     ☞︎︎︎ <strong>ғᴀᴄᴇʙᴏᴏᴋ</strong>: <a href="https://facebook.com/speedy.mmsc80.thugs"> <img align="center" src="https://img.shields.io/badge/ᴊ ᴀ ᴅ ᴇ-1DA1F2?style=flat&logo=facebook&logoColor=greenyellow"></a>
+     ☞︎︎︎ <strong>ғᴀᴄᴇʙᴏᴏᴋ</strong>: <a href="https://facebook.com/poiskls" target="_blank"> <img align="center" src="https://img.shields.io/badge/ᴊ ᴀ ᴅ ᴇ-1DA1F2?style=flat&logo=facebook&logoColor=greenyellow"></a>
     
   </td>
    </tr>
 
  <tr>
   <td>
-     ☞︎︎︎ <strong>ᴍᴇssᴇɴɢᴇʀ</strong>: <a href="https://m.me/speedy.mmsc80.thugs"> <img align="center" src="https://img.shields.io/badge/ᴅᴍ ᴍᴇ ʜᴇʀᴇ-1DA1F2?style=flat&logo=messenger&logoColor=greenyellow"></a>
+     ☞︎︎︎ <strong>ᴍᴇssᴇɴɢᴇʀ</strong>: <a href="https://m.me/poiskls" target="_blank"> <img align="center" src="https://img.shields.io/badge/ᴅᴍ ᴍᴇ ʜᴇʀᴇ-1DA1F2?style=flat&logo=messenger&logoColor=greenyellow"></a>
     
   </td>
    </tr>
@@ -291,7 +295,7 @@ id | Name | Command | Status |
 28 | html-sourcecode | https://github.com/poisk-ls/html-sourcecode | 1
 29 | XAMPP | https://github.com/poisk-ls/XAMPP | 1
 
-![Climate Spiral](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/ClimateSpiral.gif)
+
 <img align="center" alt="line" width="350" src="https://github.com/poisk-ls/poisk-ls/blob/main/src/pro.gif">
-<img img-align="center" width="330" src="https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/15675.gif" width="200">
+
 
