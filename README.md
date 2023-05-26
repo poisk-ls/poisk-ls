@@ -51,88 +51,88 @@
      
  <tr>
   <td>
-     ☞︎︎︎ <strong>ғᴀᴄᴇʙᴏᴏᴋ</strong>: <a href="https://facebook.com/speedy.mmsc80.thugs"> <img align="center" src="https://img.shields.io/badge/ᴊ ᴀ ᴅ ᴇ-1DA1F2?style=flat&logo=facebook&logoColor=white"></a>
+     ☞︎︎︎ <strong>ғᴀᴄᴇʙᴏᴏᴋ</strong>: <a href="https://facebook.com/speedy.mmsc80.thugs"> <img align="center" src="https://img.shields.io/badge/ᴊ ᴀ ᴅ ᴇ-1DA1F2?style=flat&logo=facebook&logoColor=greenyellow"></a>
     
   </td>
    </tr>
 
  <tr>
   <td>
-     ☞︎︎︎ <strong>ᴍᴇssᴇɴɢᴇʀ</strong>: <a href="https://m.me/speedy.mmsc80.thugs"> <img align="center" src="https://img.shields.io/badge/ᴅᴍ ᴍᴇ ʜᴇʀᴇ-1DA1F2?style=flat&logo=messenger&logoColor=white"></a>
+     ☞︎︎︎ <strong>ᴍᴇssᴇɴɢᴇʀ</strong>: <a href="https://m.me/speedy.mmsc80.thugs"> <img align="center" src="https://img.shields.io/badge/ᴅᴍ ᴍᴇ ʜᴇʀᴇ-1DA1F2?style=flat&logo=messenger&logoColor=greenyellow"></a>
     
   </td>
    </tr>
 
    <tr>
   <td>
-     ☞︎︎︎ <strong>ᴛᴡɪᴛᴛᴇʀ</strong>: <a href="https://twitter.com/poisk_ls"> <img align="center" src="https://img.shields.io/badge/ᴘᴏɪsᴋ ʟs-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
+     ☞︎︎︎ <strong>ᴛᴡɪᴛᴛᴇʀ</strong>: <a href="https://twitter.com/poisk_ls"> <img align="center" src="https://img.shields.io/badge/ᴘᴏɪsᴋ ʟs-1DA1F2?style=flat&logo=twitter&logoColor=greenyellow"></a>
     
   </td>
    </tr>
 
   <tr>
   <td>
-     ☞︎︎︎ <strong>ʟɪɴᴅᴋᴇᴅɪɴ</strong>: <a href="https://www.linkedin.com/in/poisk-ls-754943255"> <img align="center" src="https://img.shields.io/badge/b u h a y a n-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
+     ☞︎︎︎ <strong>ʟɪɴᴅᴋᴇᴅɪɴ</strong>: <a href="https://www.linkedin.com/in/poisk-ls-754943255"> <img align="center" src="https://img.shields.io/badge/b u h a y a n-0077B5?style=plastic&logo=linkedin&logoColor=greenyellow"></a>
   </td>  
    </tr>
   
   <tr>
   <td>
-     ☞︎︎︎ <strong>ɪɴsᴛᴀɢʀᴀᴍ</strong>: <a href="https://instagram.com/buhayanjade"> <img align="center" src="https://img.shields.io/badge/buhayanjade-EA4C89?style=flat&logo=instagram&logoColor=white"></a>
+     ☞︎︎︎ <strong>ɪɴsᴛᴀɢʀᴀᴍ</strong>: <a href="https://instagram.com/buhayanjade"> <img align="center" src="https://img.shields.io/badge/buhayanjade-EA4C89?style=flat&logo=instagram&logoColor=greenyellow"></a>
   </td>
    </tr>
 
    <tr>
  <td>
-    ☞︎︎︎ <strong>ᴅɪsᴄᴏʀᴅ</strong>: <a href="https://discord.gg/santet#6486"> <img align="center" src="https://img.shields.io/badge/J A D E-0A0A0A?style=flat&logo=discord&logoColor=white"></a>  
+    ☞︎︎︎ <strong>ᴅɪsᴄᴏʀᴅ</strong>: <a href="https://discord.gg/santet#6486"> <img align="center" src="https://img.shields.io/badge/J A D E-0A0A0A?style=flat&logo=discord&logoColor=greenyellow"></a>  
   </td>
    </tr> 
 
 <tr>
  <td>
-    ☞︎︎︎ <strong>sᴛᴀᴄᴋᴏᴠᴇʀғʟᴏᴡ</strong>: <a href="https://stackoverflow.com/users/19919040/poisk-ls"> <img align="center" src="https://img.shields.io/badge/ᴠɪsɪᴛ ᴍᴇ-0A0A0A?style=flat&logo=stackoverflow&logoColor=white"></a>  
+    ☞︎︎︎ <strong>sᴛᴀᴄᴋᴏᴠᴇʀғʟᴏᴡ</strong>: <a href="https://stackoverflow.com/users/19919040/poisk-ls"> <img align="center" src="https://img.shields.io/badge/ᴠɪsɪᴛ ᴍᴇ-0A0A0A?style=flat&logo=stackoverflow&logoColor=greenyellow"></a>  
   </td>
    </tr> 
 
 <tr>
   <td>
-     ☞︎︎︎ <strong>ᴡʜᴀᴛsᴀᴘᴘ</strong>: <a href="https://wa.me/639052877252?text=Hi%20Im%20Jade"> <img align="center" src="https://img.shields.io/badge/ᴊ ᴀ ᴅ ᴇ-2962FF?style=flat&logo=whatsapp&logoColor=white"></a>
+     ☞︎︎︎ <strong>ᴡʜᴀᴛsᴀᴘᴘ</strong>: <a href="https://wa.me/639052877252?text=Hi%20Im%20Jade"> <img align="center" src="https://img.shields.io/badge/ᴊ ᴀ ᴅ ᴇ-2962FF?style=flat&logo=whatsapp&logoColor=greenyellow"></a>
   </td>
    </tr>
     
   <tr>
   <td>
-     ☞︎︎︎ <strong>ᴍᴇᴅᴜɪᴍ</strong>: <a href="https://medium.com/@bsit.3s.buhayan.jadenelson"> <img align="center" src="https://img.shields.io/badge/ᴊ ᴀ ᴅ ᴇ-12100E?style=flat&logo=medium&logoColor=white"></a> 
+     ☞︎︎︎ <strong>ᴍᴇᴅᴜɪᴍ</strong>: <a href="https://medium.com/@bsit.3s.buhayan.jadenelson"> <img align="center" src="https://img.shields.io/badge/ᴊ ᴀ ᴅ ᴇ-12100E?style=flat&logo=medium&logoColor=greenyellow"></a> 
   </td>
    </tr>
      
   <tr>
   <td>
-    ☞︎︎︎ <strong>ᴛᴇʟᴇɢʀᴀᴍ</strong>: <a href="https://t.me/poiskLs/"> <img align="center" src="https://img.shields.io/badge/ᴘ ᴏ ɪ s ᴋ-1d3461?style=flat&logo=telegram&logoColor=orange"></a>
+    ☞︎︎︎ <strong>ᴛᴇʟᴇɢʀᴀᴍ</strong>: <a href="https://t.me/poiskLs/"> <img align="center" src="https://img.shields.io/badge/ᴘ ᴏ ɪ s ᴋ-1d3461?style=flat&logo=telegram&logoColor=greenyellow"></a>
   </td>
    </tr>
 
   <tr>
   <td>
-     ☞︎︎︎ <strong>ʙᴜʏᴍᴇᴀᴄᴏғғᴇᴇ</strong>: <a href="https://www.buymeacoffee.com/jadepoiskls"> <img align="center" src="https://img.shields.io/badge/ᴊ ᴀ ᴅ ᴇ ʟs-1d3461?style=flat&logo=buymeacoffee&logoColor=orange"></a>
+     ☞︎︎︎ <strong>ʙᴜʏᴍᴇᴀᴄᴏғғᴇᴇ</strong>: <a href="https://www.buymeacoffee.com/jadepoiskls"> <img align="center" src="https://img.shields.io/badge/ᴊ ᴀ ᴅ ᴇ ʟs-1d3461?style=flat&logo=buymeacoffee&logoColor=greenyellow"></a>
   </td>
    </tr>
 
   <tr>
   <td>
-     ☞︎︎︎ <strong>ɢʀᴏᴜᴘ</strong>: <a href="https://chat.whatsapp.com/DrdHqZC1OW64oJa1mJ4xiG"> <img align="center" src="https://img.shields.io/badge/JOIN NOW-1d3461?style=flat&logo=whatsapp&logoColor=orange"></a>
+     ☞︎︎︎ <strong>ɢʀᴏᴜᴘ</strong>: <a href="https://chat.whatsapp.com/DrdHqZC1OW64oJa1mJ4xiG"> <img align="center" src="https://img.shields.io/badge/JOIN NOW-1d3461?style=flat&logo=whatsapp&logoColor=greenyellow"></a>
   </td>
    </tr>
 
   <tr>
   <td>
-     ☞︎︎︎ <strong>ᴘᴀʏᴘᴀʟ</strong>: <a href="https://www.paypal.com/donate/?hosted_button_id=TCD49ALNYRBKN"> <img align="center" src="https://img.shields.io/badge/donate me on paypal-1d3461?style=flat&logo=paypal&logoColor=orange"></a>
+     ☞︎︎︎ <strong>ᴘᴀʏᴘᴀʟ</strong>: <a href="https://www.paypal.com/donate/?hosted_button_id=TCD49ALNYRBKN"> <img align="center" src="https://img.shields.io/badge/donate me on paypal-1d3461?style=flat&logo=paypal&logoColor=greenyellow"></a>
   </td>
    </tr>
 
   <tr>
   <td>
-     ☞︎︎︎ <strong>ʙʟᴏɢsᴘᴏᴛ</strong>: <a href="https://poisk-ls.blogspot.com/?m=1"> <img align="center" src="https://img.shields.io/badge/J a d e-EA4C89?style=flat&logo=kalilinux&logoColor=white"></a>
+     ☞︎︎︎ <strong>ʙʟᴏɢsᴘᴏᴛ</strong>: <a href="https://poisk-ls.blogspot.com/?m=1"> <img align="center" src="https://img.shields.io/badge/J a d e-EA4C89?style=flat&logo=kalilinux&logoColor=greenyellow"></a>
   </td>
    </tr>
 
