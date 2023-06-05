@@ -19,8 +19,9 @@
 
 <p align="center">``Be like terminal able to do anything but under the limits´´ </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Jade+poisk-ls%2C+21+years+old;ᴅᴀᴛᴀʙᴀsᴇ,+Sǫʟ,+Mʏsǫʟ;𝚜𝚝𝚒𝚕𝚕+𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐+𝙳𝙱𝙼𝚂+𝚊𝚗𝚍+𝚁𝙳𝙱𝙼𝚂..;)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=ɪ+ᴄᴀɴ+ᴍᴏᴅ+ᴀᴘᴘ+ᴀɴᴅ+ɢᴀᴍᴇs+ᴜsɪɴɢ;ʟᴜᴄᴋʏᴘᴀᴛᴄʜᴇʀ,+ʜᴀᴄᴋᴀᴘᴘᴅᴀᴛᴀ,+ᴀɴᴅ;ɢᴀᴍᴇɢᴜᴀʀᴅɪᴀɴ..;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=49F712&lines=ᴅᴀᴛᴀʙᴀsᴇs%2C+ʜᴛᴍʟ5%2C+ᴄss3%2C+ᴊs;ᴀɴᴅ+ᴛᴇʀᴍᴜx.)](https://git.io/typing-svg)
+   <br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=ɪ+ᴄᴀɴ+ᴍᴏᴅ+ᴀᴘᴘ+ᴀɴᴅ+ɢᴀᴍᴇs+ᴡɪᴛʜ;ʟᴜᴄᴋʏᴘᴀᴛᴄʜᴇʀ,+ʜᴀᴄᴋᴀᴘᴘᴅᴀᴛᴀ,+ᴀɴᴅ;ɢᴀᴍᴇɢᴜᴀʀᴅɪᴀɴ..;)](https://git.io/typing-svg)
 
 ![Alt text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/db.gif)
 <img align="center" alt="line" width="350" src="https://github.com/poisk-ls/poisk-ls/blob/main/src/pro.gif">
