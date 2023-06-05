@@ -23,9 +23,9 @@
    <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=ɪ+ᴄᴀɴ+ᴍᴏᴅ+ᴀᴘᴘ+ᴀɴᴅ+ɢᴀᴍᴇs+ᴡɪᴛʜ;ʟᴜᴄᴋʏᴘᴀᴛᴄʜᴇʀ,+ʜᴀᴄᴋᴀᴘᴘᴅᴀᴛᴀ,+ᴀɴᴅ;ɢᴀᴍᴇɢᴜᴀʀᴅɪᴀɴ..;)](https://git.io/typing-svg)
 
-
+<img align="center" width="330" src="https://github.com/poisk-ls/poisk-ls/blob/main/src/pro.gif" width="200">
 <img align="center" alt="line" width="350" title="sattelite" src="https://github.com/poisk-ls/poisk-ls/blob/main/asset/fac.gif">
-   
+<img align="center" width="330" src="https://github.com/poisk-ls/poisk-ls/blob/main/src/pro.gif" width="200">
 <img align="center" width="330" src="https://github.com/poisk-ls/poisk-ls/blob/main/asset/satellite.gif" width="200">
 
 <img align="center" width="330" src="https://github.com/poisk-ls/poisk-ls/blob/main/src/pro.gif" width="200">
