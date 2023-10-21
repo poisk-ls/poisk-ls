@@ -19,7 +19,7 @@
 
 <p align="center">``Be like terminal able to do anything but under the limits´´ </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=49F712&lines=jqm%2C+html5%2C+css3%2C+js;and+terminal.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=49F712&lines=jqm%2C+html5%2C+css3%2C+js,;and+terminal.)](https://git.io/typing-svg)
    <br>
 
 <img align="center" width="330" src="https://github.com/poisk-ls/poisk-ls/blob/main/src/pro.gif" width="200">
