@@ -157,8 +157,6 @@
 
 <img align="center" alt="line" width="350" src="https://github.com/poisk-ls/poisk-ls/blob/main/src/pro.gif">
 
-<img align="center" alt="line" width="350" src="https://github.com/poisk-ls/poisk-ls/blob/main/src/pro.gif">
-
 ### Github Contribution
 <details>
     <summary>&#128304<b>GitHub Activity</b></summary><br/>
