@@ -88,7 +88,7 @@
 
    <tr>
  <td>
-    ☞︎︎︎ <strong>ᴅɪsᴄᴏʀᴅ</strong>: <a href="https://discord.gg/santet#6486"> <img align="center" src="https://img.shields.io/badge/J A D E-black?style=flat&logo=discord&logoColor=greenyellow"></a>  
+    ☞︎︎︎ <strong>ᴅɪsᴄᴏʀᴅ</strong>: <a href="https://discord.gg/1115921763348525087"> <img align="center" src="https://img.shields.io/badge/J A D E-black?style=flat&logo=discord&logoColor=greenyellow"></a>  
   </td>
    </tr> 
 
@@ -106,7 +106,7 @@
     
   <tr>
   <td>
-     ☞︎︎︎ <strong>ᴍᴇᴅᴜɪᴍ</strong>: <a href="https://medium.com/@bsit.3s.buhayan.jadenelson"> <img align="center" src="https://img.shields.io/badge/ᴊ ᴀ ᴅ ᴇ-black?style=flat&logo=medium&logoColor=greenyellow"></a> 
+     ☞︎︎︎ <strong>ᴍᴇᴅᴜɪᴍ</strong>: <a href="https://medium.com/@jadepoisk"> <img align="center" src="https://img.shields.io/badge/ᴊ ᴀ ᴅ ᴇ-black?style=flat&logo=medium&logoColor=greenyellow"></a> 
   </td>
    </tr>
      
@@ -136,7 +136,7 @@
 
   <tr>
   <td>
-     ☞︎︎︎ <strong>ʙʟᴏɢsᴘᴏᴛ</strong>: <a href="https://poisk-ls.blogspot.com/?m=1"> <img align="center" src="https://img.shields.io/badge/J a d e-black?style=flat&logo=kalilinux&logoColor=greenyellow"></a>
+     ☞︎︎︎ <strong>ʙʟᴏɢsᴘᴏᴛ</strong>: <a href="https://poisklss.blogspot.com/?m=1"> <img align="center" src="https://img.shields.io/badge/J a d e-black?style=flat&logo=kalilinux&logoColor=greenyellow"></a>
   </td>
    </tr>
 
