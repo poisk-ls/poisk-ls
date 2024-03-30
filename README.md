@@ -30,7 +30,10 @@
 
 <img align="center" width="330" src="https://github.com/poisk-ls/poisk-ls/blob/main/src/pro.gif" width="200">
    
-**Thanks for visiting my Github Profile**
+<div align="center">   
+<sup>Thanks for visiting my Github Profile</sup>
+</div>
+    
 <div class='wrapper'>
 <img alt="thankyou" title="thankyou" src="https://emojis.slackmojis.com/emojis/images/1643514043/29/thankyou.gif?1643514043" />
 </div>
