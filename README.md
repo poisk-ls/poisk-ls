@@ -268,7 +268,7 @@
 <details>
  <summary>Show Repo Collection</summary>
 
-id | Name | Command | Status |
+Id | Name | Show | Active |
 -- |:--:|--|:--:|
 1 |<sup>glyde-fish</sup> | [src](https://github.com/poisk-ls/glyde-fish) | 1
 2 |<sup>Welcome-Voice</sup> | [src](https://github.com/poisk-ls/Welcome-Voice) | 1
