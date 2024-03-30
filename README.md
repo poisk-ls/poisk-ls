@@ -1,5 +1,6 @@
-
-<sup> <img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="20"/> нєℓℓσ тнєяє иι¢є тσ ѕєє уαн ☕︎ </sup>
+<div align="center">
+    <sup> <img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="20"/> нєℓℓσ тнєяє иι¢є тσ ѕєє уαн ☕︎ </sup>
+</div>
 
 <div class='wrapper'>
 <img alt="thankyou" title="thankyou" src="https://emojis.slackmojis.com/emojis/images/1643514043/29/thankyou.gif?1643514043" />
