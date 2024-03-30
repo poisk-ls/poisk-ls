@@ -1,3 +1,5 @@
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Terminess+Nerd+Font+Mono&size=20&duration=2000&pause=500&color=00ff00&background=FFFFFF00&vCenter=true&random=true&width=540&height=40&lines=Whoami:%2C+it's+poisk-ls!;currently%3A+exploring+at+unfamiliar+staff;currently%3A+studying+the+hacking+command;currently%3A+spamming+in+terminal;currently%3A+exploring+about+programming;currently%3A+exploring+about+hacking;currently%3A+exploring+to+highend+staff%3D0;currently%3A+exploring+jquery+mobile+app)](https://git.io/typing-svg)
+
 ### 𝕿𝖆𝖇𝖑𝖊 𝖔𝖋 𝖈𝖔𝖓𝖙𝖊𝖓𝖙𝖘 
 - <a href="#-ᴄᴏɴɴᴇᴄᴛ-ᴡɪᴛʜ-ᴍᴇ-" >ᶜᵒⁿⁿᵉᶜᵗ ʷⁱᵗʰ ᵐᵉ</a>
 - <a href="#tools-ive-learn-ᴅᴀᴛᴀʙᴀsᴇ" >ᵀᵒᵒˡˢ ᴵ'ᵛᵉ ˡᵉᵃʳⁿ ᴰᵃᵗᵃᵇᵃˢᵉ</a>
