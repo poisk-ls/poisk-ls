@@ -270,34 +270,34 @@
 
 id | Name | Command | Status |
 -- |:--:|--|:--:|
-1 |<sup>glyde-fish</sup> | [glyde fish](https://github.com/poisk-ls/glyde-fish) | 1
-2 |<sup>Welcome-Voice</sup> | [Welcome-voice](https://github.com/poisk-ls/Welcome-Voice) | 1
-3 |<sup>Database-SQL-MySQL</sup> | [Db](https://github.com/poisk-ls/Database-Sql-MySQL) | 1
-4 |<sup>IP-Tracer-Pro</sup> | [IPTP](https://github.com/poisk-ls/IP-Tracer-Pro) | 1
-5 |<sup>Mod-Games-Apps</sup> | [MGA](https://github.com/poisk-ls/Mod-Games-Apps) | 1
-6 |<sup>Pro-AI</sup> | [Pro-Ai](https://github.com/poisk-ls/Pro-AI) | 1
-7 |<sup>Termux-simple-Intro</sup> | [TSI](https://github.com/poisk-ls/Termux-simple-Intro) | 1
-8 |<sup>jade-cmd</sup> | [jade-cmd](https://github.com/poisk-ls/jade-cmd) | 1
-9 |<sup>termux-extra-key</sup> | [tmux-extra-key](https://github.com/poisk-ls/termux-extra-key) | 1
-10 |<sup>create-table-on-database</sup> | [ctodb](https://github.com/poisk-ls/create-table-on-database) | 1
-11 |<sup>termux-hidden-features</sup> | [thf](https://github.com/poisk-ls/termux-hidden-features) | 1
-12 |<sup>Information-Management-types</sup> | [imt](https://github.com/poisk-ls/Information-Management-types) | 1
-13 |<sup>wav-audio-hidden</sup> | [wah](https://github.com/poisk-ls/wav-audio-hidden) | 1
-14 |<sup>android-build-prop-tweaks</sup> | [abpt](https://github.com/poisk-ls/android-build-prop-tweaks) | 1
-15 | <sup>Termux-Nethunter</sup> | [tn](https://github.com/poisk-ls/Termux-Nethunter) | 1
-16 | <sup>proot-distro</sup>| [proot-distro](https://github.com/poisk-ls/proot-distro) | 1
-17 | <sup>verifying-discord-phone</sup> | [vdp](https://github.com/poisk-ls/verifying-discord-phone) | 1
-18 | <sup>spam-discord-group</sup> | [sdg](https://github.com/poisk-ls/spam-discord-group) | 1
-19 | <sup>Termux-Banner-Pro</sup> | [tbp](https://github.com/poisk-ls/Termux-Banner-Pro) | 1
-20 | <sup>best-modded-site</sup> | [bms](https://github.com/poisk-ls/best-modded-site) | 1
-21 | <sup>Wifi-Evilnet</sup> | [Wifi-Evilnet](https://github.com/poisk-ls/Wifi-Evilnet) | 1
-23 | <sup>sn1per-OSIF</sup> | [sn1-osif](https://github.com/poisk-ls/sn1per-OSIF) | 1
-24 | <sup>MySQL-work</sup> | [jysql-work](https://github.com/poisk-ls/MySQL-work) | 1 
-25 | <sup>jawhead</sup> | [jaywhead](https://github.com/poisk-ls/jawhead) | 1
-26 | <sup>extractree</sup> | [extracttree](https://github.com/poisk-ls/extractree) | 1
-27 | <sup>Termux-Installation</sup> | [tmux-ins](https://github.com/poisk-ls/Termux-Installation) | 1
-28 | <sup>html-sourcecode</sup> | [html-src](https://github.com/poisk-ls/html-sourcecode) | 1
-29 | <sup>XAMPP</sup> | [xampp](https://github.com/poisk-ls/XAMPP) | 1
+1 |<sup>glyde-fish</sup> | [src](https://github.com/poisk-ls/glyde-fish) | 1
+2 |<sup>Welcome-Voice</sup> | [src](https://github.com/poisk-ls/Welcome-Voice) | 1
+3 |<sup>Database-SQL-MySQL</sup> | [src](https://github.com/poisk-ls/Database-Sql-MySQL) | 1
+4 |<sup>IP-Tracer-Pro</sup> | [src](https://github.com/poisk-ls/IP-Tracer-Pro) | 1
+5 |<sup>Mod-Games-Apps</sup> | [src](https://github.com/poisk-ls/Mod-Games-Apps) | 1
+6 |<sup>Pro-AI</sup> | [src](https://github.com/poisk-ls/Pro-AI) | 1
+7 |<sup>Termux-simple-Intro</sup> | [src](https://github.com/poisk-ls/Termux-simple-Intro) | 1
+8 |<sup>jade-cmd</sup> | [src](https://github.com/poisk-ls/jade-cmd) | 1
+9 |<sup>termux-extra-key</sup> | [src](https://github.com/poisk-ls/termux-extra-key) | 1
+10 |<sup>create-table-on-database</sup> | [src](https://github.com/poisk-ls/create-table-on-database) | 1
+11 |<sup>termux-hidden-features</sup> | [src](https://github.com/poisk-ls/termux-hidden-features) | 1
+12 |<sup>Information-Management-types</sup> | [src](https://github.com/poisk-ls/Information-Management-types) | 1
+13 |<sup>wav-audio-hidden</sup> | [src](https://github.com/poisk-ls/wav-audio-hidden) | 1
+14 |<sup>android-build-prop-tweaks</sup> | [src](https://github.com/poisk-ls/android-build-prop-tweaks) | 1
+15 | <sup>Termux-Nethunter</sup> | [src](https://github.com/poisk-ls/Termux-Nethunter) | 1
+16 | <sup>proot-distro</sup>| [src](https://github.com/poisk-ls/proot-distro) | 1
+17 | <sup>verifying-discord-phone</sup> | [src](https://github.com/poisk-ls/verifying-discord-phone) | 1
+18 | <sup>spam-discord-group</sup> | [src](https://github.com/poisk-ls/spam-discord-group) | 1
+19 | <sup>Termux-Banner-Pro</sup> | [src](https://github.com/poisk-ls/Termux-Banner-Pro) | 1
+20 | <sup>best-modded-site</sup> | [src](https://github.com/poisk-ls/best-modded-site) | 1
+21 | <sup>Wifi-Evilnet</sup> | [src](https://github.com/poisk-ls/Wifi-Evilnet) | 1
+23 | <sup>sn1per-OSIF</sup> | [src](https://github.com/poisk-ls/sn1per-OSIF) | 1
+24 | <sup>MySQL-work</sup> | [src](https://github.com/poisk-ls/MySQL-work) | 1 
+25 | <sup>jawhead</sup> | [src](https://github.com/poisk-ls/jawhead) | 1
+26 | <sup>extractree</sup> | [src](https://github.com/poisk-ls/extractree) | 1
+27 | <sup>Termux-Installation</sup> | [src](https://github.com/poisk-ls/Termux-Installation) | 1
+28 | <sup>html-sourcecode</sup> | [src](https://github.com/poisk-ls/html-sourcecode) | 1
+29 | <sup>XAMPP</sup> | [src](https://github.com/poisk-ls/XAMPP) | 1
 
 </details>
 
