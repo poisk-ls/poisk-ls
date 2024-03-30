@@ -20,7 +20,12 @@
 <p align="center">🥀𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂🥀</p>
 <p align="center"> <img src="https://komarev.com/ghpvc?username=poisk-ls&label=My%20Visitors&color=blueviolet&style=plastic" alt="poisk-ls" /> </p>
 
-<p align="center">``Be like terminal able to do anything but under the limits´´ </p>
+<div align="center">
+<sup>
+    <strong>Be like terminal able to do anything but under the limits
+    </strong>
+</sup>    
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=49F712&lines=jqm%2C+html5%2C+css3%2C+js,;and+terminal..)](https://git.io/typing-svg)
    <br>
