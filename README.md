@@ -30,7 +30,7 @@
 
 <img align="center" width="330" src="https://github.com/poisk-ls/poisk-ls/blob/main/src/pro.gif" width="200">
    
-### Thanks for visiting my Github Profile
+**Thanks for visiting my Github Profile**
 <div class='wrapper'>
 <img alt="thankyou" title="thankyou" src="https://emojis.slackmojis.com/emojis/images/1643514043/29/thankyou.gif?1643514043" />
 </div>
@@ -157,7 +157,7 @@
 
 <img align="center" alt="line" width="350" src="https://github.com/poisk-ls/poisk-ls/blob/main/src/pro.gif">
 
-### Github Contribution
+## Github Contribution
 <details>
     <summary>&#128304<b>GitHub Activity</b></summary><br/>
 
@@ -216,7 +216,7 @@
 
 <img align="center" alt="line" width="350" src="https://github.com/poisk-ls/poisk-ls/blob/main/src/pro.gif">
 
-### My Repositories
+## My Repositories
 [![glyde-fish](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=glyde-fish&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/glyde-fish)
 [![Welcome-Voice](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Welcome-Voice&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/Welcome-Voice)
 [![Database-Sql-MySQL](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Database-Sql-MySQL&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/Database-Sql-MySQL)
@@ -257,7 +257,7 @@
 <a href="https://github.com/poisk-ls/My-Repositories-Collection"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Here's%20My%20Repositories%20Collection-61fd6d?style=for-the-badge&logoColor=Red&logo=repo"/></a>
  
 
-## My Repositories Collection
+## My Repo Collection
 id | Name | Command | Status |
 -- |:--:|--|:--:|
 1 |glyde-fish | https://github.com/poisk-ls/glyde-fish | 1
