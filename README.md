@@ -257,7 +257,7 @@
 <a href="https://github.com/poisk-ls/My-Repositories-Collection"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Here's%20My%20Repositories%20Collection-61fd6d?style=for-the-badge&logoColor=Red&logo=repo"/></a>
  
 
-**My Repositories Collection**
+## My Repositories Collection
 id | Name | Command | Status |
 -- |:--:|--|:--:|
 1 |glyde-fish | https://github.com/poisk-ls/glyde-fish | 1
