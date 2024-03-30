@@ -1,10 +1,10 @@
-### table of contents
-- <a href="#-ᴄᴏɴɴᴇᴄᴛ-ᴡɪᴛʜ-ᴍᴇ-" >ᴄᴏɴɴᴇᴄᴛ-ᴡɪᴛʜ-ᴍᴇ</a>
-- <a href="#tools-ive-learn-ᴅᴀᴛᴀʙᴀsᴇ" >tools-ive-learn-ᴅᴀᴛᴀʙᴀsᴇ</a>
-- <a href="github-contribution" >github contribution</a>
-- <a href="#my-repositories" >my-repositories</a>
-- <a href="#my-repo-collection" >my-repo-collection</a>
-- <a href="#private-repo" >private-repo</a> 
+### 𝕿𝖆𝖇𝖑𝖊 𝖔𝖋 𝖈𝖔𝖓𝖙𝖊𝖓𝖙𝖘 
+- <a href="#-ᴄᴏɴɴᴇᴄᴛ-ᴡɪᴛʜ-ᴍᴇ-" >ᶜᵒⁿⁿᵉᶜᵗ ʷⁱᵗʰ ᵐᵉ</a>
+- <a href="#tools-ive-learn-ᴅᴀᴛᴀʙᴀsᴇ" >ᵀᵒᵒˡˢ ᴵ'ᵛᵉ ˡᵉᵃʳⁿ ᴰᵃᵗᵃᵇᵃˢᵉ</a>
+- <a href="github-contribution" >ᵍⁱᵗʰᵘᵇ ᶜᵒⁿᵗʳⁱᵇᵘᵗⁱᵒⁿ</a>
+- <a href="#my-repositories" >ᵐʸ ʳᵉᵖᵒˢⁱᵗᵒʳⁱᵉˢ</a>
+- <a href="#my-repo-collection" >ᵐʸ ʳᵉᵖᵒ ᶜᵒˡˡᵉᶜᵗⁱᵒⁿ</a>
+- <a href="#private-repo" >ᵖʳⁱᵛᵃᵗᵉ ʳᵉᵖᵒ</a> 
 
 
 <div align="center">
