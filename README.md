@@ -107,7 +107,7 @@
 
    <tr>
  <td>
-    ☞︎︎︎ <strong>ᴅɪsᴄᴏʀᴅ</strong>: <a href="https://discord.gg/poiskls"> <img align="center" src="https://img.shields.io/badge/J A D E-black?style=flat&logo=discord&logoColor=greenyellow"></a>  
+    ☞︎︎︎ <strong>ᴅɪsᴄᴏʀᴅ</strong>: <a href="https://discord.com/invite/AqYsEf7c"> <img align="center" src="https://img.shields.io/badge/J A D E-black?style=flat&logo=discord&logoColor=greenyellow"></a>  
   </td>
    </tr> 
 
