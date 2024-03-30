@@ -217,6 +217,10 @@
     <img src="https://github.com/poisk-ls/poisk-ls/blob/main/asset/terminal.svg" alt=""></img></details>
 </details>
 
+<div align="right">
+    <b><a href="#𝕿𝖆𝖇𝖑𝖊-𝖔𝖋-𝖈𝖔𝖓𝖙𝖊𝖓𝖙𝖘">↥ ᴮᵃᶜᵏ ᵗᵒ ᵀᵒᵖ</a></b>
+</div>
+
 <img align="center" alt="line" width="350" src="https://github.com/poisk-ls/poisk-ls/blob/main/src/pro.gif">
 
 <p><img src="https://alanwalker.com/wp-content/themes/alanwalker/assets/AW-logo_main_white.png" alt="Alan Walker logo" /></p>
@@ -229,10 +233,6 @@
 <img align="center" width="330" src="https://github.com/poisk-ls/poisk-ls/blob/main/asset/console.gif" width="200">
 
 <img align="center" alt="line" width="350" src="https://github.com/poisk-ls/poisk-ls/blob/main/src/pro.gif">
-
-<div align="right">
-    <b><a href="#𝕿𝖆𝖇𝖑𝖊-𝖔𝖋-𝖈𝖔𝖓𝖙𝖊𝖓𝖙𝖘">↥ ᴮᵃᶜᵏ ᵗᵒ ᵀᵒᵖ</a></b>
-</div>
 
 ## My Repositories
 [![glyde-fish](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=glyde-fish&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/glyde-fish)
