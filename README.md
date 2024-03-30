@@ -1,3 +1,5 @@
+
+
 <div align="center">
     <sup> <img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="20"/> нєℓℓσ тнєяє иι¢є тσ ѕєє уαн ☕︎ </sup>
 </div>
@@ -258,6 +260,10 @@
  
 
 ## My Repo Collection
+
+<details>
+ <summary>Show Repo Collection</summary>
+
 id | Name | Command | Status |
 -- |:--:|--|:--:|
 1 |glyde-fish | https://github.com/poisk-ls/glyde-fish | 1
@@ -289,6 +295,7 @@ id | Name | Command | Status |
 28 | html-sourcecode | https://github.com/poisk-ls/html-sourcecode | 1
 29 | XAMPP | https://github.com/poisk-ls/XAMPP | 1
 
+</details>
 
 <img align="center" alt="line" width="350" src="https://github.com/poisk-ls/poisk-ls/blob/main/src/pro.gif">
 
