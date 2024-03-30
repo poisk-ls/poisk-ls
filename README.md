@@ -239,26 +239,56 @@
 [![Welcome-Voice](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Welcome-Voice&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/Welcome-Voice)
 [![Database-Sql-MySQL](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Database-Sql-MySQL&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/Database-Sql-MySQL)
 [![IP-Tracer-Pro](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=IP-Tracer-Pro&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/IP-Tracer-Pro)
+
+<div align="right">
+    <b><a href="#𝕿𝖆𝖇𝖑𝖊-𝖔𝖋-𝖈𝖔𝖓𝖙𝖊𝖓𝖙𝖘">↥ ᴮᵃᶜᵏ ᵗᵒ ᵀᵒᵖ</a></b>
+</div>
+
 [![Mod-Games-Apps](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Mod-Games-Apps&hide_border=true&description=&theme=highcontrast)](https://github.com/poisk-ls/Mod-Games-Apps)
 [![Termux-simple-Intro](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Termux-simple-Intro&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/Termux-simple-Intro)
 [![Pro-AI](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Pro-AI&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/Pro-AI)
 [![jade-cmd](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=jade-cmd&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/jade-cmd)
+
+<div align="right">
+    <b><a href="#𝕿𝖆𝖇𝖑𝖊-𝖔𝖋-𝖈𝖔𝖓𝖙𝖊𝖓𝖙𝖘">↥ ᴮᵃᶜᵏ ᵗᵒ ᵀᵒᵖ</a></b>
+</div>
+
 [![termux-extra-key](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=termux-extra-key&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/termux-extra-key)
 [![create-table-on-database](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=create-table-on-database&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/create-table-on-database)
 [![termux-hidden-features](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=termux-hidden-features&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/termux-hidden-features)
 [![Information-Management-types](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Information-Management-types&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/Information-Management-types)
+
+<div align="right">
+    <b><a href="#𝕿𝖆𝖇𝖑𝖊-𝖔𝖋-𝖈𝖔𝖓𝖙𝖊𝖓𝖙𝖘">↥ ᴮᵃᶜᵏ ᵗᵒ ᵀᵒᵖ</a></b>
+</div>
+
 [![wav-audio-hidden](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=wav-audio-hidden&hide_border=true&theme=highcontrast&description=?)](https://github.com/poisk-ls/wav-audio-hidden)
 [![android-build-prop-tweaks](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=android-build-prop-tweaks&hide_border=true&theme=highcontrast&description=?)](https://github.com/poisk-ls/android-build-prop-tweaks)
 [![Termux-Nethunter](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Termux-Nethunter&hide_border=true&theme=highcontrast&description=?)](https://github.com/poisk-ls/Termux-Nethunter)
 [![proot-distro](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=proot-distro&hide_border=true&theme=highcontrast&description=?)](https://github.com/poisk-ls/proot-distro)
+
+<div align="right">
+    <b><a href="#𝕿𝖆𝖇𝖑𝖊-𝖔𝖋-𝖈𝖔𝖓𝖙𝖊𝖓𝖙𝖘">↥ ᴮᵃᶜᵏ ᵗᵒ ᵀᵒᵖ</a></b>
+</div>
+
 [![verifying-discord-phone](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=verifying-discord-phone&hide_border=true&theme=highcontrast&description=?)](https://github.com/poisk-ls/verifying-discord-phone)
 [![spam-discord-group](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=spam-discord-group&hide_border=true&theme=highcontrast&description=?)](https://github.com/poisk-ls/spam-discord-group)
 [![Termux-Banner-Pro](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Termux-Banner-Pro&hide_border=true&theme=highcontrast&description=?)](https://github.com/poisk-ls/Termux-Banner-Pro)
 [![best-modded-site](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=best-modded-site&hide_border=true&theme=highcontrast&description=?)](https://github.com/poisk-ls/best-modded-site)
+
+<div align="right">
+    <b><a href="#𝕿𝖆𝖇𝖑𝖊-𝖔𝖋-𝖈𝖔𝖓𝖙𝖊𝖓𝖙𝖘">↥ ᴮᵃᶜᵏ ᵗᵒ ᵀᵒᵖ</a></b>
+</div>
+
 [![Wifi-Evilnet](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Wifi-Evilnet&hide_border=true&theme=highcontrast&description=11)](https://github.com/poisk-ls/Wifi-Evilnet)
 [![sn1per-OSIF](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=sn1per-OSIF&hide_border=true&theme=highcontrast&description=11)](https://github.com/poisk-ls/sn1per-OSIF)
 [![MySQL-work](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=MySQL-work&hide_border=true&theme=highcontrast&description=11)](https://github.com/poisk-ls/MySQL-work)
 [![jawhead](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=jawhead&hide_border=true&theme=highcontrast&description=11)](https://github.com/poisk-ls/jawhead)
+
+<div align="right">
+    <b><a href="#𝕿𝖆𝖇𝖑𝖊-𝖔𝖋-𝖈𝖔𝖓𝖙𝖊𝖓𝖙𝖘">↥ ᴮᵃᶜᵏ ᵗᵒ ᵀᵒᵖ</a></b>
+</div>
+
 [![extractree](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=extractree&hide_border=true&theme=highcontrast&description=11)](https://github.com/poisk-ls/extractree)
 [![Termux-Installation](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Termux-Installation&hide_border=true&theme=highcontrast&description=11)](https://github.com/poisk-ls/Termux-Installation)
 [![html-sourcecode](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=html-sourcecode&hide_border=true&theme=highcontrast&description=11)](https://github.com/poisk-ls/html-sourcecode)
