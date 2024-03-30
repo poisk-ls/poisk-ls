@@ -230,6 +230,10 @@
 
 <img align="center" alt="line" width="350" src="https://github.com/poisk-ls/poisk-ls/blob/main/src/pro.gif">
 
+<div align="right">
+    <b><a href="#𝕿𝖆𝖇𝖑𝖊-𝖔𝖋-𝖈𝖔𝖓𝖙𝖊𝖓𝖙𝖘">↥ ᴮᵃᶜᵏ ᵗᵒ ᵀᵒᵖ</a></b>
+</div>
+
 ## My Repositories
 [![glyde-fish](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=glyde-fish&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/glyde-fish)
 [![Welcome-Voice](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=poisk-ls&repo=Welcome-Voice&hide_border=true&theme=highcontrast)](https://github.com/poisk-ls/Welcome-Voice)
@@ -270,6 +274,9 @@
 
 <a href="https://github.com/poisk-ls/My-Repositories-Collection"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Here's%20My%20Repositories%20Collection-61fd6d?style=for-the-badge&logoColor=Red&logo=repo"/></a>
  
+<div align="right">
+    <b><a href="#𝕿𝖆𝖇𝖑𝖊-𝖔𝖋-𝖈𝖔𝖓𝖙𝖊𝖓𝖙𝖘">↥ ᴮᵃᶜᵏ ᵗᵒ ᵀᵒᵖ</a></b>
+</div>
 
 ## My Repo Collection
 
@@ -311,6 +318,9 @@ Id | Name | Show | Active |
 
 <img align="center" alt="line" width="350" src="https://github.com/poisk-ls/poisk-ls/blob/main/src/pro.gif">
 
+<div align="right">
+    <b><a href="#𝕿𝖆𝖇𝖑𝖊-𝖔𝖋-𝖈𝖔𝖓𝖙𝖊𝖓𝖙𝖘">↥ ᴮᵃᶜᵏ ᵗᵒ ᵀᵒᵖ</a></b>
+</div>
 
 ## Private Repo
 [PC SOFTWARE](https://github.com/poisk-ls/pc-software/tree/master) ---> 🔒
