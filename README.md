@@ -69,26 +69,26 @@
 
    <tr>
   <td>
-     ☞︎︎︎ <strong>ᴛᴡɪᴛᴛᴇʀ</strong>: <a href="https://twitter.com/poisk_ls"> <img align="center" src="https://img.shields.io/badge/ᴘᴏɪsᴋ ʟs-black?style=flat&logo=twitter&logoColor=greenyellow"></a>
+     ☞︎︎︎ <strong>ᴛᴡɪᴛᴛᴇʀ</strong>: <a href="https://twitter.com/poiskls"> <img align="center" src="https://img.shields.io/badge/ᴘᴏɪsᴋ ʟs-black?style=flat&logo=twitter&logoColor=greenyellow"></a>
     
   </td>
    </tr>
 
   <tr>
   <td>
-     ☞︎︎︎ <strong>ʟɪɴᴅᴋᴇᴅɪɴ</strong>: <a href="https://www.linkedin.com/in/poisk-ls-754943255"> <img align="center" src="https://img.shields.io/badge/b u h a y a n-black?style=plastic&logo=linkedin&logoColor=greenyellow"></a>
+     ☞︎︎︎ <strong>ʟɪɴᴅᴋᴇᴅɪɴ</strong>: <a href="https://www.linkedin.com/in/poisk-ls"> <img align="center" src="https://img.shields.io/badge/b u h a y a n-black?style=plastic&logo=linkedin&logoColor=greenyellow"></a>
   </td>  
    </tr>
   
   <tr>
   <td>
-     ☞︎︎︎ <strong>ɪɴsᴛᴀɢʀᴀᴍ</strong>: <a href="https://instagram.com/buhayanjade"> <img align="center" src="https://img.shields.io/badge/buhayanjade-black?style=flat&logo=instagram&logoColor=greenyellow"></a>
+     ☞︎︎︎ <strong>ɪɴsᴛᴀɢʀᴀᴍ</strong>: <a href="https://instagram.com/jadepoiskls"> <img align="center" src="https://img.shields.io/badge/buhayanjade-black?style=flat&logo=instagram&logoColor=greenyellow"></a>
   </td>
    </tr>
 
    <tr>
  <td>
-    ☞︎︎︎ <strong>ᴅɪsᴄᴏʀᴅ</strong>: <a href="https://discord.gg/1115921763348525087"> <img align="center" src="https://img.shields.io/badge/J A D E-black?style=flat&logo=discord&logoColor=greenyellow"></a>  
+    ☞︎︎︎ <strong>ᴅɪsᴄᴏʀᴅ</strong>: <a href="https://discord.com/1115921763348525087"> <img align="center" src="https://img.shields.io/badge/J A D E-black?style=flat&logo=discord&logoColor=greenyellow"></a>  
   </td>
    </tr> 
 
@@ -139,9 +139,6 @@
      ☞︎︎︎ <strong>ʙʟᴏɢsᴘᴏᴛ</strong>: <a href="https://poisklss.blogspot.com/?m=1"> <img align="center" src="https://img.shields.io/badge/J a d e-black?style=flat&logo=kalilinux&logoColor=greenyellow"></a>
   </td>
    </tr>
-
-
-
 </table>
 
 
