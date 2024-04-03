@@ -229,7 +229,9 @@
 
 <img align="center" alt="line" width="350" src="https://github.com/poisk-ls/poisk-ls/blob/main/src/pro.gif">
 
-<p><img src="https://alanwalker.com/wp-content/themes/alanwalker/assets/AW-logo_main_white.png" alt="Alan Walker logo" /></p>
+<div align="center">
+    <p><img src="https://alanwalker.com/wp-content/themes/alanwalker/assets/AW-logo_main_white.png" alt="Alan Walker logo"  width="50%"/></p>
+</div>
 
      » [Spectre - Alan Walker] «
          0:21 ─〇───── 3:46
