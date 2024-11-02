@@ -56,8 +56,8 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc?username=poisk-ls&label=My%20Visitors&color=blueviolet&style=plastic" alt="poisk-ls" /> </p>
 
-- 🌱 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ sᴛᴜᴅʏɪɴɢ **DBMS and RDBMS.**
-- <img src="https://emojis.slackmojis.com/emojis/images/1643515200/12186/mohawk_party_blob.gif?1643515200" width="30"/>Feel free to discuss with me about **Database, SQL, MySQL, etc.**
+- 🌱 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ sᴛᴜᴅʏɪɴɢ **Terminal.**
+- <img src="https://emojis.slackmojis.com/emojis/images/1643515200/12186/mohawk_party_blob.gif?1643515200" width="30"/>Feel free to discuss with me about **Database, cmd etc.**
 
 - 🤳 I've using **terminal** <img width="22px" height="18px" src="https://github.com/poisk-ls/poisk-ls/blob/main/img/ic_launcher.png" /> on android.
 
