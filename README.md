@@ -103,7 +103,7 @@
   
   <tr>
   <td>
-     ☞︎︎︎ <strong>ɪɴsᴛᴀɢʀᴀᴍ</strong>: <a href="https://instagram.com/jadepoiskls"> <img align="center" src="https://img.shields.io/badge/buhayanjade-black?style=flat&logo=instagram&logoColor=greenyellow"></a>
+     ☞︎︎︎ <strong>ɪɴsᴛᴀɢʀᴀᴍ</strong>: <a href="https://instagram.com/jadepoiskls"> <img align="center" src="https://img.shields.io/badge/buhayanjade-black?style=flat&logo=instagram&logoColor=greenyellow" alt="poisk-ls"></a>
   </td>
    </tr>
 
