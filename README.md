@@ -157,7 +157,7 @@
 
   <tr>
   <td>
-     ☞︎︎︎ <strong>ʙʟᴏɢsᴘᴏᴛ</strong>: <a href="https://poisklss.blogspot.com/?m=1"> <img align="center" src="https://img.shields.io/badge/J a d e-black?style=flat&logo=kalilinux&logoColor=greenyellow"></a>
+     ☞︎︎︎ <strong>ʙʟᴏɢsᴘᴏᴛ</strong>: <a href="https://jadepoiskls.blogspot.com/?m=1"> <img align="center" src="https://img.shields.io/badge/J a d e-black?style=flat&logo=kalilinux&logoColor=greenyellow"></a>
   </td>
    </tr>
 </table>
