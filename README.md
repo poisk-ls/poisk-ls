@@ -61,7 +61,7 @@
 
 - 🤳 I've using **terminal** <img width="22px" height="18px" src="https://github.com/poisk-ls/poisk-ls/blob/main/img/ic_launcher.png" /> on android.
 
-- 📫 Feel free to reach me <a href="mailto:bsit.3s.buhayan.jadenelson@gmail.com" target="_blank"><img src="https://img.shields.io/badge/poiskls-jadepoisk@gmail.com-blue?style=flat&logo=gmail&color=4974a5"></a>
+- 📫 Feel free to reach me <a href="mailto:jadepoisk@gmail.com" target="_blank"><img src="https://img.shields.io/badge/poiskls-jadepoisk@gmail.com-blue?style=flat&logo=gmail&color=4974a5"></a>
 
 - ⌨️ Insert: **Do the things you love.**
 
