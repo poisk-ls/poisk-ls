@@ -186,14 +186,6 @@
 
 </details>
 
-
-<details>
-    <summary>&#128206 <b>Most used Languages</b></summary><br/>
-
-![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=poisk-ls&show_icons=true&locale=en&layout=compact&theme=highcontrast)
-
-</details>
-
 <details>
     <summary>&#128681 <b>Github Stats</b></summary><br/>
 
