@@ -217,7 +217,7 @@
 <img align="center" alt="line" width="350" src="https://github.com/poisk-ls/poisk-ls/blob/main/src/pro.gif">
 
 <div align="center">
-    <p><img src="https://github.com/poisk-ls/poisk-ls/blob/main/img/ic_launcher.png" alt="cmd"  width="50%"/></p>
+    <p><img src="https://github.com/poisk-ls/poisk-ls/blob/main/asset/poisk-ls.png" alt="cmd"  width="50%"/></p>
 </div>
 
      » [Spectre - Alan Walker] «
