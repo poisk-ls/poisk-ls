@@ -163,7 +163,7 @@
 <img width="200" src="https://github.com/poisk-ls/poisk-ls/blob/main/src/pro.gif">
 </p>
 
-<h2 id="private-repo" align="center"><code>$ private --repo</code></h2>
+<h2 id="private-repo" align="center"><code>$ private --staff</code></h2>
 
 <div align="center">
 
