@@ -46,7 +46,7 @@
 <h2 id="connect-with-me" align="center"><code>$ connect --with-me</code></h2>
 
 <p align="center">
-<a href="https://facebook.com/poiskls" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=39FF14" /></a>
+<a href="https://facebook.com/poisk-ls" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=39FF14" /></a>
 <a href="https://m.me/poiskls" target="_blank"><img src="https://img.shields.io/badge/Messenger-0D1117?style=for-the-badge&logo=messenger&logoColor=39FF14" /></a>
 <a href="https://twitter.com/poiskls" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=39FF14" /></a>
 <a href="https://www.linkedin.com/in/poisk-ls" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14" /></a>
@@ -57,7 +57,7 @@
 <a href="https://t.me/poiskLs/" target="_blank"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=39FF14" /></a>
 <br>
 <a href="https://stackoverflow.com/users/19919040/poisk-ls" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-0D1117?style=for-the-badge&logo=stackoverflow&logoColor=39FF14" /></a>
-<a href="https://medium.com/@jadepoisk" target="_blank"><img src="https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=39FF14" /></a>
+<a href="https://medium.com/@poisk-ls" target="_blank"><img src="https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=39FF14" /></a>
 <a href="https://jadepoiskls.blogspot.com/?m=1" target="_blank"><img src="https://img.shields.io/badge/Blogspot-0D1117?style=for-the-badge&logo=blogger&logoColor=39FF14" /></a>
 <br>
 <a href="https://chat.whatsapp.com/DrdHqZC1OW64oJa1mJ4xiG" target="_blank"><img src="https://img.shields.io/badge/Join%20the%20Group-0D1117?style=for-the-badge&logo=whatsapp&logoColor=39FF14" /></a>
